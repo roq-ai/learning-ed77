@@ -1,0 +1,2672 @@
+[
+  {
+    "course": [
+      {
+        "id": "aef2722d-9aad-4da2-9320-97ca22cca67c",
+        "title": "Introduction to Programming",
+        "description": "Learn the basics of programming",
+        "fee": 47107,
+        "date_created": "2023-08-28T13:23:57.740Z",
+        "last_updated": "2023-08-28T10:33:16.181Z",
+        "created_at": "2023-08-27T17:47:23.765Z",
+        "updated_at": "2023-08-27T18:57:28.465Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6647b2fd-1cca-42b3-8e17-d99f93f185f8",
+        "title": "Marketing Strategies",
+        "description": "Explore effective marketing techniques",
+        "fee": 31577,
+        "date_created": "2023-08-28T12:02:19.377Z",
+        "last_updated": "2023-08-27T14:20:28.791Z",
+        "created_at": "2023-08-28T09:00:55.400Z",
+        "updated_at": "2023-08-28T06:57:59.951Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2f3557ed-7f67-466c-9ed6-392f3f8ab79d",
+        "title": "Financial Management",
+        "description": "Manage finances for business success",
+        "fee": 31362,
+        "date_created": "2023-08-27T14:36:49.410Z",
+        "last_updated": "2023-08-28T04:41:57.398Z",
+        "created_at": "2023-08-28T07:59:08.113Z",
+        "updated_at": "2023-08-27T14:57:40.942Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "726e56de-f8b1-450f-9ddb-2ca9be7b0d7f",
+        "title": "Artificial Intelligence",
+        "description": "Discover the world of AI",
+        "fee": 34278,
+        "date_created": "2023-08-27T21:27:39.721Z",
+        "last_updated": "2023-08-27T22:39:17.950Z",
+        "created_at": "2023-08-28T03:51:45.665Z",
+        "updated_at": "2023-08-28T03:53:08.370Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d4449a6b-c7fb-43e0-90ee-3978f0899811",
+        "title": "Web Development",
+        "description": "Build interactive websites",
+        "fee": 17085,
+        "date_created": "2023-08-28T01:20:10.070Z",
+        "last_updated": "2023-08-27T19:55:56.660Z",
+        "created_at": "2023-08-28T13:51:05.032Z",
+        "updated_at": "2023-08-27T21:41:13.627Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "module": [
+      {
+        "id": "8288845e-6ed7-43d4-8e62-8dfc26e91176",
+        "title": "Module 1",
+        "description": "Introduction and overview",
+        "date_created": "2023-08-28T04:54:30.495Z",
+        "last_updated": "2023-08-27T22:15:37.413Z",
+        "created_at": "2023-08-27T18:52:25.188Z",
+        "updated_at": "2023-08-28T04:59:17.110Z",
+        "course_id": "6647b2fd-1cca-42b3-8e17-d99f93f185f8"
+      },
+      {
+        "id": "934481a4-4ef5-44ba-a992-4dba86cfe48b",
+        "title": "Module 2",
+        "description": "In-depth analysis and case studies",
+        "date_created": "2023-08-28T11:13:12.665Z",
+        "last_updated": "2023-08-28T04:46:00.324Z",
+        "created_at": "2023-08-28T05:07:47.579Z",
+        "updated_at": "2023-08-28T11:27:37.905Z",
+        "course_id": "726e56de-f8b1-450f-9ddb-2ca9be7b0d7f"
+      },
+      {
+        "id": "00a9340a-e0c0-44eb-ac7c-f486ca5372be",
+        "title": "Module 3",
+        "description": "Hands-on exercises and projects",
+        "date_created": "2023-08-28T00:08:04.005Z",
+        "last_updated": "2023-08-28T01:27:20.607Z",
+        "created_at": "2023-08-27T22:09:36.597Z",
+        "updated_at": "2023-08-28T02:35:36.625Z",
+        "course_id": "d4449a6b-c7fb-43e0-90ee-3978f0899811"
+      },
+      {
+        "id": "5145b9a3-0cff-48c7-8fc2-bb5454f05526",
+        "title": "Module 4",
+        "description": "Advanced concepts and techniques",
+        "date_created": "2023-08-28T06:16:16.930Z",
+        "last_updated": "2023-08-28T10:55:57.675Z",
+        "created_at": "2023-08-27T14:16:47.463Z",
+        "updated_at": "2023-08-28T02:33:31.070Z",
+        "course_id": "aef2722d-9aad-4da2-9320-97ca22cca67c"
+      },
+      {
+        "id": "d79116f9-4577-4613-8f4c-48c0e495e276",
+        "title": "Module 5",
+        "description": "Final assessment and review",
+        "date_created": "2023-08-27T17:21:05.471Z",
+        "last_updated": "2023-08-28T11:03:38.076Z",
+        "created_at": "2023-08-27T23:36:29.846Z",
+        "updated_at": "2023-08-28T11:25:53.144Z",
+        "course_id": "726e56de-f8b1-450f-9ddb-2ca9be7b0d7f"
+      }
+    ],
+    "exam": [
+      {
+        "id": "bfccf8cb-8455-43af-b4b9-57a361552855",
+        "title": "Midterm Exam",
+        "description": "Evaluate knowledge and understanding",
+        "date_created": "2023-08-28T04:31:16.386Z",
+        "last_updated": "2023-08-27T17:11:41.013Z",
+        "created_at": "2023-08-28T04:55:51.523Z",
+        "updated_at": "2023-08-28T10:21:40.273Z",
+        "course_id": "aef2722d-9aad-4da2-9320-97ca22cca67c"
+      },
+      {
+        "id": "51c67287-3fc3-4611-96d5-4faf0b1262aa",
+        "title": "Final Exam",
+        "description": "Comprehensive assessment of the course",
+        "date_created": "2023-08-28T13:25:43.755Z",
+        "last_updated": "2023-08-27T20:25:58.630Z",
+        "created_at": "2023-08-28T08:26:22.823Z",
+        "updated_at": "2023-08-28T04:36:47.678Z",
+        "course_id": "d4449a6b-c7fb-43e0-90ee-3978f0899811"
+      },
+      {
+        "id": "c71204c6-3e48-4403-be45-3440c70e090e",
+        "title": "Practical Assessment",
+        "description": "Demonstrate practical skills",
+        "date_created": "2023-08-27T17:55:48.038Z",
+        "last_updated": "2023-08-28T03:26:05.807Z",
+        "created_at": "2023-08-28T04:44:30.431Z",
+        "updated_at": "2023-08-28T04:36:41.930Z",
+        "course_id": "2f3557ed-7f67-466c-9ed6-392f3f8ab79d"
+      },
+      {
+        "id": "af95a0ff-372a-4fe0-a5d4-56ef6ecc7915",
+        "title": "Quiz",
+        "description": "Test knowledge in a fun way",
+        "date_created": "2023-08-28T06:41:11.589Z",
+        "last_updated": "2023-08-28T06:26:25.859Z",
+        "created_at": "2023-08-27T21:54:47.421Z",
+        "updated_at": "2023-08-28T02:37:54.525Z",
+        "course_id": "2f3557ed-7f67-466c-9ed6-392f3f8ab79d"
+      },
+      {
+        "id": "c8ad8c2f-55fe-4c9b-aa21-00cb1871fd8d",
+        "title": "Written Test",
+        "description": "Written evaluation of concepts",
+        "date_created": "2023-08-28T05:19:54.853Z",
+        "last_updated": "2023-08-27T22:24:53.789Z",
+        "created_at": "2023-08-28T03:14:52.011Z",
+        "updated_at": "2023-08-28T01:06:45.853Z",
+        "course_id": "6647b2fd-1cca-42b3-8e17-d99f93f185f8"
+      }
+    ],
+    "certificate": [
+      {
+        "id": "674e650b-0a3e-48d1-918a-d9445b1263c1",
+        "title": "Certificate of Completion",
+        "description": "Recognizes successful course completion",
+        "date_created": "2023-08-28T13:57:41.997Z",
+        "last_updated": "2023-08-28T10:53:09.451Z",
+        "created_at": "2023-08-28T02:16:23.172Z",
+        "updated_at": "2023-08-28T11:34:32.211Z",
+        "exam_id": "bfccf8cb-8455-43af-b4b9-57a361552855",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9a3a6fd4-dcc5-43f7-ac0c-0ff074c8b006",
+        "title": "Professional Achievement Award",
+        "description": "Acknowledges outstanding achievement",
+        "date_created": "2023-08-27T19:07:50.925Z",
+        "last_updated": "2023-08-27T23:27:15.103Z",
+        "created_at": "2023-08-28T02:12:20.497Z",
+        "updated_at": "2023-08-28T05:13:21.201Z",
+        "exam_id": "51c67287-3fc3-4611-96d5-4faf0b1262aa",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "980b2208-940e-480f-9b4a-ceef30e05a08",
+        "title": "Advanced Certification",
+        "description": "Validates advanced skills and knowledge",
+        "date_created": "2023-08-27T23:22:12.307Z",
+        "last_updated": "2023-08-28T10:13:12.658Z",
+        "created_at": "2023-08-27T22:27:12.351Z",
+        "updated_at": "2023-08-28T06:58:49.309Z",
+        "exam_id": "c71204c6-3e48-4403-be45-3440c70e090e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c94ddf3a-a99b-4b5c-b574-ddfd1e164b93",
+        "title": "Specialization Certificate",
+        "description": "Highlights specialized expertise",
+        "date_created": "2023-08-28T02:06:36.921Z",
+        "last_updated": "2023-08-27T17:50:05.430Z",
+        "created_at": "2023-08-27T15:09:42.031Z",
+        "updated_at": "2023-08-28T08:57:58.891Z",
+        "exam_id": "af95a0ff-372a-4fe0-a5d4-56ef6ecc7915",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "93f50cb8-46ad-4ed4-a84a-3e8420ee034f",
+        "title": "Master's Credential",
+        "description": "Confirms mastery of subject",
+        "date_created": "2023-08-27T17:03:43.048Z",
+        "last_updated": "2023-08-28T13:51:00.531Z",
+        "created_at": "2023-08-28T02:48:15.759Z",
+        "updated_at": "2023-08-28T00:01:12.996Z",
+        "exam_id": "51c67287-3fc3-4611-96d5-4faf0b1262aa",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "c53a1475-42bc-4468-8d49-7e8f817168b9",
+        "email": "Axel22@yahoo.com",
+        "firstName": "Pearlie",
+        "lastName": "Wiza",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/27110818",
+        "tenantId": null
+      },
+      {
+        "reference": "e7609f4c-5062-477d-89be-d0371a3ead55",
+        "email": "Amani52@yahoo.com",
+        "firstName": "Julian",
+        "lastName": "Wolf",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/319.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7e6c59fb-96cd-4081-a8d8-0bbf36f1c050",
+        "email": "Alden.Schaefer-McKenzie@gmail.com",
+        "firstName": "Roxane",
+        "lastName": "Berge",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58261306",
+        "tenantId": null
+      },
+      {
+        "reference": "6c87417c-9915-402a-ae83-b4cb90c8a5b5",
+        "email": "Erica_Gleason70@yahoo.com",
+        "firstName": "Bettie",
+        "lastName": "Hickle",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/17.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7718937c-6f92-4e65-9058-1bed138854ee",
+        "email": "Briana_Feest67@hotmail.com",
+        "firstName": "Nayeli",
+        "lastName": "Farrell",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/672.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "course": [
+      {
+        "id": "e89c41f1-298f-4a6f-8d9e-8ebebaac7bcb",
+        "title": "Introduction to Programming",
+        "description": "Learn the basics of programming",
+        "fee": 44284,
+        "date_created": "2023-08-28T09:22:53.891Z",
+        "last_updated": "2023-08-28T00:41:37.751Z",
+        "created_at": "2023-08-27T23:37:16.805Z",
+        "updated_at": "2023-08-27T22:26:23.317Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b982abd5-6736-48b3-98de-3f43879e330f",
+        "title": "Web Development Fundamentals",
+        "description": "Build interactive websites using HTML, CSS, and JavaScript",
+        "fee": 14501,
+        "date_created": "2023-08-27T21:13:47.687Z",
+        "last_updated": "2023-08-27T21:11:27.007Z",
+        "created_at": "2023-08-27T22:56:36.343Z",
+        "updated_at": "2023-08-28T01:23:32.960Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c9625309-e8ac-4b45-a297-d7818ec78c1d",
+        "title": "Data Science Basics",
+        "description": "Explore the world of data analysis and visualization",
+        "fee": 36413,
+        "date_created": "2023-08-28T04:09:17.312Z",
+        "last_updated": "2023-08-28T01:16:14.006Z",
+        "created_at": "2023-08-28T06:15:02.466Z",
+        "updated_at": "2023-08-28T12:46:05.678Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "eb492752-3bab-41bd-9497-b3a919f336e6",
+        "title": "Marketing Strategies",
+        "description": "Discover effective marketing techniques",
+        "fee": 90530,
+        "date_created": "2023-08-28T12:58:51.646Z",
+        "last_updated": "2023-08-28T12:21:42.015Z",
+        "created_at": "2023-08-28T00:32:15.090Z",
+        "updated_at": "2023-08-28T10:26:23.404Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1df44b87-2e6d-4919-bcf7-0b146b6017c2",
+        "title": "Project Management Essentials",
+        "description": "Master the art of managing projects",
+        "fee": 77991,
+        "date_created": "2023-08-28T07:06:19.740Z",
+        "last_updated": "2023-08-28T13:40:16.102Z",
+        "created_at": "2023-08-28T10:26:39.643Z",
+        "updated_at": "2023-08-28T00:57:39.568Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "module": [
+      {
+        "id": "636e4100-502f-4060-93a7-04c7cc9caaec",
+        "title": "Module 1",
+        "description": "Introduction to the course",
+        "date_created": "2023-08-27T19:30:04.706Z",
+        "last_updated": "2023-08-28T11:19:29.234Z",
+        "created_at": "2023-08-28T01:35:25.965Z",
+        "updated_at": "2023-08-27T17:48:30.428Z",
+        "course_id": "1df44b87-2e6d-4919-bcf7-0b146b6017c2"
+      },
+      {
+        "id": "877cf7a5-70cc-4586-93d4-cdd814611c92",
+        "title": "Module 2",
+        "description": "Hands-on exercises and examples",
+        "date_created": "2023-08-28T04:56:23.084Z",
+        "last_updated": "2023-08-28T13:19:27.884Z",
+        "created_at": "2023-08-28T07:15:42.926Z",
+        "updated_at": "2023-08-27T22:03:26.922Z",
+        "course_id": "1df44b87-2e6d-4919-bcf7-0b146b6017c2"
+      },
+      {
+        "id": "53c8fe2a-2190-460a-800f-5167ca8df8ae",
+        "title": "Module 3",
+        "description": "In-depth analysis of key concepts",
+        "date_created": "2023-08-27T23:21:50.636Z",
+        "last_updated": "2023-08-28T01:17:00.231Z",
+        "created_at": "2023-08-28T12:32:20.396Z",
+        "updated_at": "2023-08-28T01:54:12.706Z",
+        "course_id": "b982abd5-6736-48b3-98de-3f43879e330f"
+      },
+      {
+        "id": "83abef1d-64d7-488a-afba-b07724795f9d",
+        "title": "Module 4",
+        "description": "Real-world case studies",
+        "date_created": "2023-08-28T02:52:08.440Z",
+        "last_updated": "2023-08-28T03:17:57.462Z",
+        "created_at": "2023-08-28T03:22:33.407Z",
+        "updated_at": "2023-08-28T02:49:44.244Z",
+        "course_id": "c9625309-e8ac-4b45-a297-d7818ec78c1d"
+      },
+      {
+        "id": "981fe3af-d882-4396-b45b-13be138c871a",
+        "title": "Module 5",
+        "description": "Final project and assessment",
+        "date_created": "2023-08-27T17:31:56.405Z",
+        "last_updated": "2023-08-27T15:54:35.252Z",
+        "created_at": "2023-08-27T14:24:09.768Z",
+        "updated_at": "2023-08-27T15:01:35.842Z",
+        "course_id": "e89c41f1-298f-4a6f-8d9e-8ebebaac7bcb"
+      }
+    ],
+    "exam": [
+      {
+        "id": "c63c76a4-3019-41dd-b645-85087570dcb6",
+        "title": "Midterm Exam",
+        "description": "Evaluate your understanding of the course material",
+        "date_created": "2023-08-28T05:13:18.881Z",
+        "last_updated": "2023-08-28T07:47:17.423Z",
+        "created_at": "2023-08-27T21:36:57.951Z",
+        "updated_at": "2023-08-28T06:04:21.578Z",
+        "course_id": "e89c41f1-298f-4a6f-8d9e-8ebebaac7bcb"
+      },
+      {
+        "id": "fd1553f0-66d6-425a-89f9-3986aff201eb",
+        "title": "Final Exam",
+        "description": "Comprehensive assessment of all topics covered",
+        "date_created": "2023-08-28T05:06:17.976Z",
+        "last_updated": "2023-08-28T02:15:08.905Z",
+        "created_at": "2023-08-28T10:53:29.338Z",
+        "updated_at": "2023-08-28T11:20:45.265Z",
+        "course_id": "b982abd5-6736-48b3-98de-3f43879e330f"
+      },
+      {
+        "id": "bcc18b3e-747f-4c14-91ed-0e4497f043a2",
+        "title": "Practical Assessment",
+        "description": "Apply your knowledge to practical scenarios",
+        "date_created": "2023-08-27T15:08:25.528Z",
+        "last_updated": "2023-08-27T14:20:24.514Z",
+        "created_at": "2023-08-27T15:40:22.668Z",
+        "updated_at": "2023-08-27T19:49:10.564Z",
+        "course_id": "1df44b87-2e6d-4919-bcf7-0b146b6017c2"
+      },
+      {
+        "id": "a77a2193-b0e2-4c79-b1d5-7b0aeb3f55ab",
+        "title": "Quiz",
+        "description": "Test your knowledge with a quick quiz",
+        "date_created": "2023-08-27T21:38:51.123Z",
+        "last_updated": "2023-08-27T19:51:39.802Z",
+        "created_at": "2023-08-28T02:04:48.274Z",
+        "updated_at": "2023-08-28T09:58:20.907Z",
+        "course_id": "eb492752-3bab-41bd-9497-b3a919f336e6"
+      },
+      {
+        "id": "d37de51f-05e1-4350-9042-3c7b7763eaae",
+        "title": "Written Test",
+        "description": "Written examination to assess your learning",
+        "date_created": "2023-08-28T13:55:24.634Z",
+        "last_updated": "2023-08-27T18:54:56.087Z",
+        "created_at": "2023-08-28T04:33:24.317Z",
+        "updated_at": "2023-08-28T06:28:12.277Z",
+        "course_id": "eb492752-3bab-41bd-9497-b3a919f336e6"
+      }
+    ],
+    "certificate": [
+      {
+        "id": "abcf9ee8-c58d-44c2-b87a-93f0747d65cb",
+        "title": "Certificate of Completion",
+        "description": "Recognizes your successful completion of the course",
+        "date_created": "2023-08-27T19:08:56.080Z",
+        "last_updated": "2023-08-28T11:21:38.573Z",
+        "created_at": "2023-08-28T00:25:20.214Z",
+        "updated_at": "2023-08-28T02:52:00.482Z",
+        "exam_id": "a77a2193-b0e2-4c79-b1d5-7b0aeb3f55ab",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ddf348a9-51ff-4961-bd51-06bb380421ef",
+        "title": "Professional Certification",
+        "description": "Official certification for professional development",
+        "date_created": "2023-08-27T19:43:53.149Z",
+        "last_updated": "2023-08-28T03:07:10.723Z",
+        "created_at": "2023-08-28T13:42:55.858Z",
+        "updated_at": "2023-08-28T11:47:30.363Z",
+        "exam_id": "d37de51f-05e1-4350-9042-3c7b7763eaae",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "65eaeedd-efa5-40be-a55f-3f789c059d87",
+        "title": "Advanced Diploma",
+        "description": "Advanced qualification in the field",
+        "date_created": "2023-08-28T05:36:29.746Z",
+        "last_updated": "2023-08-27T18:49:50.265Z",
+        "created_at": "2023-08-28T07:57:26.968Z",
+        "updated_at": "2023-08-28T06:39:28.926Z",
+        "exam_id": "c63c76a4-3019-41dd-b645-85087570dcb6",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e24bfc3b-6d60-4496-8182-3c060d485789",
+        "title": "Specialization Certificate",
+        "description": "Specialized certificate for specific skills",
+        "date_created": "2023-08-28T04:32:00.414Z",
+        "last_updated": "2023-08-28T10:03:12.497Z",
+        "created_at": "2023-08-27T14:25:54.476Z",
+        "updated_at": "2023-08-27T14:38:44.489Z",
+        "exam_id": "d37de51f-05e1-4350-9042-3c7b7763eaae",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "430f9c30-e575-4afe-bd47-07e35d4a99e0",
+        "title": "Master's Degree",
+        "description": "Highest level of academic achievement",
+        "date_created": "2023-08-28T08:09:09.259Z",
+        "last_updated": "2023-08-28T09:40:45.596Z",
+        "created_at": "2023-08-28T12:53:55.268Z",
+        "updated_at": "2023-08-28T12:31:08.346Z",
+        "exam_id": "c63c76a4-3019-41dd-b645-85087570dcb6",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "f47279e4-add7-41c0-a99e-bd2f6ac7a36b",
+        "email": "Jace40@gmail.com",
+        "firstName": "Mattie",
+        "lastName": "Mann",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/79129225",
+        "tenantId": null
+      },
+      {
+        "reference": "a54a460a-be6e-4763-a255-dbe6199af240",
+        "email": "Blaze_Smith@hotmail.com",
+        "firstName": "Esther",
+        "lastName": "Halvorson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/731.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "52f008af-9719-4ff9-9ef1-54ca01262ec4",
+        "email": "Arianna.Kiehn29@hotmail.com",
+        "firstName": "Erik",
+        "lastName": "Schiller",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51492861",
+        "tenantId": null
+      },
+      {
+        "reference": "d8183b62-2ead-498a-8625-7202ed7f33a8",
+        "email": "Orland79@gmail.com",
+        "firstName": "Octavia",
+        "lastName": "Kovacek",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/78.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7646edb4-70a8-4888-9a71-c3b3b911767d",
+        "email": "Athena49@hotmail.com",
+        "firstName": "Lenna",
+        "lastName": "Murazik",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/74.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "course": [
+      {
+        "id": "0799417a-9f3f-4add-a742-f517c30a5d7f",
+        "title": "Introduction to Programming",
+        "description": "Learn the basics of programming languages and coding techniques",
+        "fee": 338,
+        "date_created": "2023-08-28T13:45:16.205Z",
+        "last_updated": "2023-08-27T14:26:27.469Z",
+        "created_at": "2023-08-28T06:16:51.524Z",
+        "updated_at": "2023-08-28T07:25:38.652Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c97fdca3-825f-4fc9-9e30-5079f54ee288",
+        "title": "Digital Marketing Fundamentals",
+        "description": "Master the fundamentals of digital marketing strategies and tactics",
+        "fee": 19400,
+        "date_created": "2023-08-28T05:28:04.817Z",
+        "last_updated": "2023-08-28T12:28:41.546Z",
+        "created_at": "2023-08-28T08:53:41.817Z",
+        "updated_at": "2023-08-28T03:22:49.985Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a3e67e73-0a61-4039-984e-d78223d35df0",
+        "title": "Project Management Essentials",
+        "description": "Develop essential skills for effective project management",
+        "fee": 60184,
+        "date_created": "2023-08-27T22:39:12.359Z",
+        "last_updated": "2023-08-28T11:50:12.846Z",
+        "created_at": "2023-08-27T16:10:52.110Z",
+        "updated_at": "2023-08-28T12:39:37.190Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "24c839b6-7d33-4eed-b183-5cb24a4e06c2",
+        "title": "Financial Accounting Basics",
+        "description": "Understand the principles of financial accounting and reporting",
+        "fee": 37930,
+        "date_created": "2023-08-28T03:16:41.003Z",
+        "last_updated": "2023-08-28T10:33:16.989Z",
+        "created_at": "2023-08-27T23:34:48.837Z",
+        "updated_at": "2023-08-27T17:33:49.828Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "87f156ad-9843-4047-9c48-2f5799d8379a",
+        "title": "Graphic Design Principles",
+        "description": "Explore the key principles and techniques of graphic design",
+        "fee": 70525,
+        "date_created": "2023-08-28T04:23:51.783Z",
+        "last_updated": "2023-08-27T22:01:36.096Z",
+        "created_at": "2023-08-27T22:27:16.717Z",
+        "updated_at": "2023-08-28T00:30:10.126Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "module": [
+      {
+        "id": "ddb174ad-9ddc-4433-b430-05ceceb782dc",
+        "title": "Module 1: Introduction",
+        "description": "An introductory module covering the basics of the subject",
+        "date_created": "2023-08-28T01:42:42.618Z",
+        "last_updated": "2023-08-28T10:47:18.296Z",
+        "created_at": "2023-08-28T09:20:13.266Z",
+        "updated_at": "2023-08-28T13:01:00.581Z",
+        "course_id": "24c839b6-7d33-4eed-b183-5cb24a4e06c2"
+      },
+      {
+        "id": "1892e2bd-0c62-463b-8694-890d1b7d93f0",
+        "title": "Module 2: Advanced Concepts",
+        "description": "An advanced module exploring complex concepts and theories",
+        "date_created": "2023-08-28T09:53:26.454Z",
+        "last_updated": "2023-08-27T18:30:18.182Z",
+        "created_at": "2023-08-28T01:36:29.680Z",
+        "updated_at": "2023-08-27T15:53:57.246Z",
+        "course_id": "87f156ad-9843-4047-9c48-2f5799d8379a"
+      },
+      {
+        "id": "9efa0dcc-ea36-44b8-ad5b-78fd6db5caa7",
+        "title": "Module 3: Practical Applications",
+        "description": "A hands-on module focusing on real-world applications",
+        "date_created": "2023-08-28T00:44:07.605Z",
+        "last_updated": "2023-08-28T10:24:59.462Z",
+        "created_at": "2023-08-28T04:52:11.433Z",
+        "updated_at": "2023-08-27T21:43:08.596Z",
+        "course_id": "24c839b6-7d33-4eed-b183-5cb24a4e06c2"
+      },
+      {
+        "id": "7ec5a517-55bc-4360-b5da-02dc3167e42f",
+        "title": "Module 4: Case Studies",
+        "description": "A module showcasing case studies and practical examples",
+        "date_created": "2023-08-28T10:08:04.426Z",
+        "last_updated": "2023-08-28T07:24:34.341Z",
+        "created_at": "2023-08-27T23:02:41.365Z",
+        "updated_at": "2023-08-27T22:30:43.914Z",
+        "course_id": "c97fdca3-825f-4fc9-9e30-5079f54ee288"
+      },
+      {
+        "id": "1a32c444-cfdf-4119-801d-c8c6230e75a4",
+        "title": "Module 5: Final Project",
+        "description": "The final module where students complete a comprehensive project",
+        "date_created": "2023-08-27T15:31:16.225Z",
+        "last_updated": "2023-08-27T22:14:29.138Z",
+        "created_at": "2023-08-28T04:30:48.822Z",
+        "updated_at": "2023-08-28T00:20:41.627Z",
+        "course_id": "a3e67e73-0a61-4039-984e-d78223d35df0"
+      }
+    ],
+    "exam": [
+      {
+        "id": "3ea16ade-838c-4aae-9e7c-593a870e3244",
+        "title": "Midterm Exam",
+        "description": "A comprehensive exam covering the course material up to the midpoint",
+        "date_created": "2023-08-27T23:39:23.196Z",
+        "last_updated": "2023-08-27T19:40:23.659Z",
+        "created_at": "2023-08-27T23:55:32.329Z",
+        "updated_at": "2023-08-27T14:22:41.026Z",
+        "course_id": "87f156ad-9843-4047-9c48-2f5799d8379a"
+      },
+      {
+        "id": "07fa289e-4a37-4e6b-8006-3f4e3d85dac5",
+        "title": "Final Exam",
+        "description": "The final exam assessing the overall understanding of the course",
+        "date_created": "2023-08-27T18:36:31.449Z",
+        "last_updated": "2023-08-27T19:39:40.142Z",
+        "created_at": "2023-08-28T11:37:01.802Z",
+        "updated_at": "2023-08-27T15:49:19.198Z",
+        "course_id": "0799417a-9f3f-4add-a742-f517c30a5d7f"
+      },
+      {
+        "id": "db30e51a-c7f4-47b3-bd20-504f1b55d3f6",
+        "title": "Practice Exam 1",
+        "description": "A practice exam to test knowledge and prepare for the actual exam",
+        "date_created": "2023-08-28T05:07:11.358Z",
+        "last_updated": "2023-08-28T01:21:11.671Z",
+        "created_at": "2023-08-27T18:12:16.610Z",
+        "updated_at": "2023-08-27T21:15:36.836Z",
+        "course_id": "0799417a-9f3f-4add-a742-f517c30a5d7f"
+      },
+      {
+        "id": "5b8d8289-fc23-45db-b4a7-4a0855f38d0e",
+        "title": "Practice Exam 2",
+        "description": "Another practice exam to reinforce learning and identify areas of improvement",
+        "date_created": "2023-08-28T05:07:10.569Z",
+        "last_updated": "2023-08-27T15:23:29.866Z",
+        "created_at": "2023-08-27T21:06:04.587Z",
+        "updated_at": "2023-08-28T00:00:07.880Z",
+        "course_id": "0799417a-9f3f-4add-a742-f517c30a5d7f"
+      },
+      {
+        "id": "c190057f-6d5e-4b62-97f1-2dc317e528e0",
+        "title": "Mock Exam",
+        "description": "A mock exam simulating the actual exam environment",
+        "date_created": "2023-08-27T21:12:14.531Z",
+        "last_updated": "2023-08-28T09:46:02.329Z",
+        "created_at": "2023-08-28T12:18:35.825Z",
+        "updated_at": "2023-08-28T00:56:56.882Z",
+        "course_id": "0799417a-9f3f-4add-a742-f517c30a5d7f"
+      }
+    ],
+    "certificate": [
+      {
+        "id": "fad8e8aa-2f5b-4cad-a402-bcca8cff04f6",
+        "title": "Certificate of Completion",
+        "description": "A certificate awarded upon successful completion of the course",
+        "date_created": "2023-08-28T08:27:08.471Z",
+        "last_updated": "2023-08-28T10:47:04.617Z",
+        "created_at": "2023-08-27T19:59:17.458Z",
+        "updated_at": "2023-08-28T11:18:44.301Z",
+        "exam_id": "c190057f-6d5e-4b62-97f1-2dc317e528e0",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "45cccf51-715d-4066-9040-5bd484137290",
+        "title": "Professional Certificate",
+        "description": "A professional certificate recognizing specialized skills and knowledge",
+        "date_created": "2023-08-28T07:50:25.595Z",
+        "last_updated": "2023-08-27T18:57:23.045Z",
+        "created_at": "2023-08-28T05:34:01.279Z",
+        "updated_at": "2023-08-28T05:48:00.739Z",
+        "exam_id": "db30e51a-c7f4-47b3-bd20-504f1b55d3f6",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6b6b25cc-1af6-4d12-a8ed-9eb1df0d3d9d",
+        "title": "Advanced Diploma",
+        "description": "An advanced diploma certifying advanced proficiency in the subject",
+        "date_created": "2023-08-28T04:50:31.511Z",
+        "last_updated": "2023-08-28T00:40:23.488Z",
+        "created_at": "2023-08-28T03:09:57.836Z",
+        "updated_at": "2023-08-27T18:55:46.566Z",
+        "exam_id": "07fa289e-4a37-4e6b-8006-3f4e3d85dac5",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ad6ae09f-7a26-4832-af17-36a07d4b0412",
+        "title": "Specialization Certificate",
+        "description": "A specialization certificate acknowledging expertise in a specific area",
+        "date_created": "2023-08-27T16:25:39.614Z",
+        "last_updated": "2023-08-27T14:57:53.334Z",
+        "created_at": "2023-08-28T07:37:31.223Z",
+        "updated_at": "2023-08-27T18:42:35.621Z",
+        "exam_id": "db30e51a-c7f4-47b3-bd20-504f1b55d3f6",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6b8314b7-053c-4907-9010-cb5b13f0bb50",
+        "title": "Master's Degree",
+        "description": "A master's degree conferred upon completion of a comprehensive program",
+        "date_created": "2023-08-28T11:34:17.867Z",
+        "last_updated": "2023-08-28T00:35:10.560Z",
+        "created_at": "2023-08-27T17:45:29.368Z",
+        "updated_at": "2023-08-28T07:30:20.752Z",
+        "exam_id": "07fa289e-4a37-4e6b-8006-3f4e3d85dac5",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "d841f545-a4a6-46ca-8485-882ee4c244b7",
+        "email": "Jaylon_Pouros@hotmail.com",
+        "firstName": "Jovani",
+        "lastName": "Smith",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/48748430",
+        "tenantId": null
+      },
+      {
+        "reference": "b791209a-ce0e-4653-bfde-df863c42be44",
+        "email": "Dorothy_Waters@yahoo.com",
+        "firstName": "Claude",
+        "lastName": "Hahn",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1228.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6d8afb70-06b0-40b0-8e5c-eaca500754b4",
+        "email": "Chloe.Hyatt37@gmail.com",
+        "firstName": "Austin",
+        "lastName": "Smitham",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/855.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6dd2cf44-5153-422d-88bd-4c1f9e8d3217",
+        "email": "Korbin_Vandervort@hotmail.com",
+        "firstName": "Abbie",
+        "lastName": "Turcotte",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73212664",
+        "tenantId": null
+      },
+      {
+        "reference": "f390f286-edfe-43b0-ae28-1fa65db60f07",
+        "email": "Kennedy.Emmerich@hotmail.com",
+        "firstName": "Felipa",
+        "lastName": "Roob",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/417.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "course": [
+      {
+        "id": "b6bd10fa-ef35-4dcc-8e43-567c8fb765dc",
+        "title": "Introduction to Programming",
+        "description": "Learn the basics of programming with this comprehensive course",
+        "fee": 7885,
+        "date_created": "2023-08-28T12:13:23.312Z",
+        "last_updated": "2023-08-27T22:27:53.118Z",
+        "created_at": "2023-08-27T22:37:18.429Z",
+        "updated_at": "2023-08-27T20:47:08.283Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "cc244b35-16d1-4bfc-a1b8-8f9b1d41e0b4",
+        "title": "Digital Marketing Fundamentals",
+        "description": "Master the essentials of digital marketing and boost your online presence",
+        "fee": 20315,
+        "date_created": "2023-08-27T23:46:57.525Z",
+        "last_updated": "2023-08-27T15:17:58.308Z",
+        "created_at": "2023-08-27T18:50:53.065Z",
+        "updated_at": "2023-08-27T15:53:30.711Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c161f0a2-ba6d-4a64-ac06-982af895e5c9",
+        "title": "Financial Planning 101",
+        "description": "Gain financial literacy and plan for a secure future",
+        "fee": 38003,
+        "date_created": "2023-08-28T05:28:01.972Z",
+        "last_updated": "2023-08-27T16:53:37.153Z",
+        "created_at": "2023-08-28T09:45:59.533Z",
+        "updated_at": "2023-08-28T07:37:05.388Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5a69c811-0075-4b70-8c4c-bc07138f6e79",
+        "title": "Photography Basics",
+        "description": "Discover the art of photography and capture stunning images",
+        "fee": 70322,
+        "date_created": "2023-08-28T05:23:27.459Z",
+        "last_updated": "2023-08-27T15:48:33.247Z",
+        "created_at": "2023-08-27T18:45:12.032Z",
+        "updated_at": "2023-08-28T04:20:56.136Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "07e196ad-97d1-439a-9c0b-d49173ab17a2",
+        "title": "Yoga for Beginners",
+        "description": "Embark on a journey of self-discovery and wellness through yoga",
+        "fee": 18528,
+        "date_created": "2023-08-28T12:10:02.229Z",
+        "last_updated": "2023-08-28T04:37:16.460Z",
+        "created_at": "2023-08-28T07:19:35.377Z",
+        "updated_at": "2023-08-28T13:45:22.097Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "module": [
+      {
+        "id": "78ca2409-ab8d-4193-ae13-e3210073dbfd",
+        "title": "Module 1: Introduction",
+        "description": "Get started with the fundamentals in this introductory module",
+        "date_created": "2023-08-28T07:29:40.318Z",
+        "last_updated": "2023-08-28T07:23:48.949Z",
+        "created_at": "2023-08-28T02:34:28.609Z",
+        "updated_at": "2023-08-28T11:19:20.103Z",
+        "course_id": "b6bd10fa-ef35-4dcc-8e43-567c8fb765dc"
+      },
+      {
+        "id": "7e96b5e5-cc29-4866-9afd-75a34b87198a",
+        "title": "Module 2: Advanced Techniques",
+        "description": "Explore advanced techniques to enhance your skills",
+        "date_created": "2023-08-27T22:58:51.111Z",
+        "last_updated": "2023-08-27T18:52:33.755Z",
+        "created_at": "2023-08-27T17:05:07.281Z",
+        "updated_at": "2023-08-27T18:25:21.618Z",
+        "course_id": "cc244b35-16d1-4bfc-a1b8-8f9b1d41e0b4"
+      },
+      {
+        "id": "e124a47a-15bf-4ef1-a6f9-52f8b30404f9",
+        "title": "Module 3: Case Studies",
+        "description": "Analyze real-world case studies to deepen your understanding",
+        "date_created": "2023-08-27T19:41:19.959Z",
+        "last_updated": "2023-08-28T08:26:22.089Z",
+        "created_at": "2023-08-27T19:24:20.473Z",
+        "updated_at": "2023-08-28T05:30:39.049Z",
+        "course_id": "5a69c811-0075-4b70-8c4c-bc07138f6e79"
+      },
+      {
+        "id": "2cf71e92-eb4e-408d-b98e-7a6803c6caef",
+        "title": "Module 4: Practical Applications",
+        "description": "Apply your knowledge to real-life scenarios and projects",
+        "date_created": "2023-08-27T15:02:33.074Z",
+        "last_updated": "2023-08-28T01:32:19.639Z",
+        "created_at": "2023-08-28T10:09:52.426Z",
+        "updated_at": "2023-08-28T01:29:31.312Z",
+        "course_id": "5a69c811-0075-4b70-8c4c-bc07138f6e79"
+      },
+      {
+        "id": "6db4d115-65de-4d29-a01b-be97468de58d",
+        "title": "Module 5: Final Project",
+        "description": "Complete a final project to showcase your proficiency",
+        "date_created": "2023-08-28T07:37:35.535Z",
+        "last_updated": "2023-08-27T14:26:12.859Z",
+        "created_at": "2023-08-28T13:43:02.744Z",
+        "updated_at": "2023-08-28T05:12:20.126Z",
+        "course_id": "5a69c811-0075-4b70-8c4c-bc07138f6e79"
+      }
+    ],
+    "exam": [
+      {
+        "id": "667234f1-696d-49b8-880a-260c32c0a333",
+        "title": "Midterm Exam",
+        "description": "Test your knowledge with this comprehensive midterm exam",
+        "date_created": "2023-08-28T12:28:27.363Z",
+        "last_updated": "2023-08-28T00:13:09.809Z",
+        "created_at": "2023-08-28T00:24:01.279Z",
+        "updated_at": "2023-08-28T10:32:25.515Z",
+        "course_id": "c161f0a2-ba6d-4a64-ac06-982af895e5c9"
+      },
+      {
+        "id": "1cb66652-5272-425a-9ce5-4366bd639315",
+        "title": "Final Exam",
+        "description": "Evaluate your understanding through a challenging final exam",
+        "date_created": "2023-08-27T15:20:29.059Z",
+        "last_updated": "2023-08-27T21:18:16.449Z",
+        "created_at": "2023-08-28T04:10:22.634Z",
+        "updated_at": "2023-08-27T18:32:44.148Z",
+        "course_id": "c161f0a2-ba6d-4a64-ac06-982af895e5c9"
+      },
+      {
+        "id": "4c482fb4-0fef-478f-ac5b-7b82ad2e3882",
+        "title": "Practical Assessment",
+        "description": "Demonstrate your skills with a practical assessment",
+        "date_created": "2023-08-28T07:07:08.575Z",
+        "last_updated": "2023-08-27T20:18:46.896Z",
+        "created_at": "2023-08-27T17:35:33.621Z",
+        "updated_at": "2023-08-27T22:46:55.215Z",
+        "course_id": "cc244b35-16d1-4bfc-a1b8-8f9b1d41e0b4"
+      },
+      {
+        "id": "d5e8da03-a87e-402f-988f-94fc7dd1197f",
+        "title": "Quiz",
+        "description": "Assess your comprehension with a quick quiz",
+        "date_created": "2023-08-28T12:40:20.769Z",
+        "last_updated": "2023-08-27T18:50:24.130Z",
+        "created_at": "2023-08-28T05:06:15.497Z",
+        "updated_at": "2023-08-27T16:20:09.722Z",
+        "course_id": "c161f0a2-ba6d-4a64-ac06-982af895e5c9"
+      },
+      {
+        "id": "5f8aafa3-b729-4ba8-bd42-1e79b476b168",
+        "title": "Case Study Evaluation",
+        "description": "Analyze and provide solutions for a complex case study",
+        "date_created": "2023-08-28T03:05:08.187Z",
+        "last_updated": "2023-08-28T10:59:39.990Z",
+        "created_at": "2023-08-27T18:53:23.659Z",
+        "updated_at": "2023-08-28T04:43:42.071Z",
+        "course_id": "07e196ad-97d1-439a-9c0b-d49173ab17a2"
+      }
+    ],
+    "certificate": [
+      {
+        "id": "1651a2c7-6156-4253-a44e-97035d60c00f",
+        "title": "Certificate of Completion",
+        "description": "Receive a certificate upon successful completion of the course",
+        "date_created": "2023-08-27T14:19:46.637Z",
+        "last_updated": "2023-08-27T16:59:08.992Z",
+        "created_at": "2023-08-28T06:01:07.863Z",
+        "updated_at": "2023-08-28T01:43:28.871Z",
+        "exam_id": "4c482fb4-0fef-478f-ac5b-7b82ad2e3882",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "be6de571-877e-4a0b-87f0-73bb1c36240c",
+        "title": "Professional Certification",
+        "description": "Earn a professional certification to enhance your credentials",
+        "date_created": "2023-08-28T08:09:37.434Z",
+        "last_updated": "2023-08-28T06:13:56.443Z",
+        "created_at": "2023-08-28T01:46:47.402Z",
+        "updated_at": "2023-08-28T08:00:00.941Z",
+        "exam_id": "667234f1-696d-49b8-880a-260c32c0a333",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8eb9e2f3-f12e-4950-b7cb-ba529423e744",
+        "title": "Specialization Certificate",
+        "description": "Obtain a specialization certificate in your chosen field",
+        "date_created": "2023-08-28T07:28:42.782Z",
+        "last_updated": "2023-08-28T07:04:45.743Z",
+        "created_at": "2023-08-28T05:33:37.932Z",
+        "updated_at": "2023-08-28T04:58:30.422Z",
+        "exam_id": "d5e8da03-a87e-402f-988f-94fc7dd1197f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a17b583d-f7ca-4dd3-8436-09d24f195b79",
+        "title": "Advanced Diploma",
+        "description": "Achieve an advanced diploma to showcase your expertise",
+        "date_created": "2023-08-28T04:02:58.801Z",
+        "last_updated": "2023-08-27T21:23:28.656Z",
+        "created_at": "2023-08-27T19:50:58.661Z",
+        "updated_at": "2023-08-27T23:15:25.026Z",
+        "exam_id": "4c482fb4-0fef-478f-ac5b-7b82ad2e3882",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "81990bcc-dd7e-4485-8057-ad1633f9fbde",
+        "title": "Master's Degree",
+        "description": "Attain a master's degree to further your academic journey",
+        "date_created": "2023-08-28T03:24:30.477Z",
+        "last_updated": "2023-08-27T21:54:51.878Z",
+        "created_at": "2023-08-27T20:35:20.472Z",
+        "updated_at": "2023-08-28T10:18:10.919Z",
+        "exam_id": "d5e8da03-a87e-402f-988f-94fc7dd1197f",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "2bdc592a-1703-4294-97bb-52894a76ecb9",
+        "email": "Anastasia.Nader-Doyle@gmail.com",
+        "firstName": "Jacky",
+        "lastName": "Gutmann",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/38271312",
+        "tenantId": null
+      },
+      {
+        "reference": "25322e6a-f2f7-40d6-8738-e776023baec8",
+        "email": "General23@gmail.com",
+        "firstName": "Kayleigh",
+        "lastName": "Boyer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1077.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "36cc8270-9db0-4ce0-ab3d-b1f2bc659a32",
+        "email": "Marjorie24@gmail.com",
+        "firstName": "Tessie",
+        "lastName": "Homenick-Johnson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51734716",
+        "tenantId": null
+      },
+      {
+        "reference": "06c55da4-0292-4cf7-abce-e9106891c980",
+        "email": "Georgette.Kilback76@hotmail.com",
+        "firstName": "Ronny",
+        "lastName": "Jenkins",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1185.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f2f5f439-383e-46d2-8cc6-c51163510201",
+        "email": "Joaquin.Kunze41@yahoo.com",
+        "firstName": "Gunner",
+        "lastName": "Windler",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/376.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "course": [
+      {
+        "id": "67256077-99fd-4581-b53c-b08a1c121ee1",
+        "title": "Introduction to Python Programming",
+        "description": "Learn the basics of Python programming language and its applications",
+        "fee": 4770,
+        "date_created": "2023-08-27T17:13:34.067Z",
+        "last_updated": "2023-08-28T12:27:27.386Z",
+        "created_at": "2023-08-28T13:47:51.087Z",
+        "updated_at": "2023-08-28T10:21:37.206Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1f06da34-77f3-46f9-ac70-7e2f4d2ae772",
+        "title": "Web Development Fundamentals",
+        "description": "Master the fundamentals of web development using HTML, CSS, and JavaScript",
+        "fee": 88872,
+        "date_created": "2023-08-27T15:55:04.977Z",
+        "last_updated": "2023-08-28T09:08:17.088Z",
+        "created_at": "2023-08-28T11:59:17.986Z",
+        "updated_at": "2023-08-27T20:57:34.292Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8157f3d5-474f-42ce-8ee1-edee5e5fd677",
+        "title": "Data Science for Beginners",
+        "description": "Explore the world of data science and its various techniques",
+        "fee": 468,
+        "date_created": "2023-08-27T19:11:18.493Z",
+        "last_updated": "2023-08-28T12:04:30.178Z",
+        "created_at": "2023-08-28T13:05:45.021Z",
+        "updated_at": "2023-08-28T11:23:31.453Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2d9abefe-34ea-499a-bea4-6a79b936e7a0",
+        "title": "Marketing Strategies for Small Businesses",
+        "description": "Discover effective marketing strategies for small businesses to thrive",
+        "fee": 8552,
+        "date_created": "2023-08-28T04:26:06.221Z",
+        "last_updated": "2023-08-27T17:46:24.815Z",
+        "created_at": "2023-08-28T03:39:53.529Z",
+        "updated_at": "2023-08-28T04:07:04.755Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "59c9e8bb-0121-4ecc-ae0a-87f6e006e419",
+        "title": "Financial Planning and Analysis",
+        "description": "Gain knowledge in financial planning and analysis for better decision-making",
+        "fee": 52726,
+        "date_created": "2023-08-27T22:53:34.152Z",
+        "last_updated": "2023-08-27T21:23:33.919Z",
+        "created_at": "2023-08-27T22:22:46.350Z",
+        "updated_at": "2023-08-28T02:31:05.288Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "module": [
+      {
+        "id": "dd5bf37e-7ff1-4492-bb7e-0fe3a1608a34",
+        "title": "Module 1: Introduction",
+        "description": "Get started with the course and understand its objectives",
+        "date_created": "2023-08-27T19:18:56.432Z",
+        "last_updated": "2023-08-28T06:49:55.582Z",
+        "created_at": "2023-08-28T01:14:17.211Z",
+        "updated_at": "2023-08-28T02:10:41.489Z",
+        "course_id": "59c9e8bb-0121-4ecc-ae0a-87f6e006e419"
+      },
+      {
+        "id": "8ea8fbc1-02d7-4e3e-b79d-9275811767cd",
+        "title": "Module 2: Advanced Concepts",
+        "description": "Dive deeper into advanced concepts and techniques",
+        "date_created": "2023-08-28T03:50:56.093Z",
+        "last_updated": "2023-08-27T16:51:01.409Z",
+        "created_at": "2023-08-28T10:49:28.025Z",
+        "updated_at": "2023-08-28T11:41:31.308Z",
+        "course_id": "2d9abefe-34ea-499a-bea4-6a79b936e7a0"
+      },
+      {
+        "id": "0a82e0fe-ac3e-41c7-8af5-a894c314fdd2",
+        "title": "Module 3: Practical Applications",
+        "description": "Apply the knowledge gained in real-world scenarios",
+        "date_created": "2023-08-27T19:10:50.658Z",
+        "last_updated": "2023-08-28T06:38:27.812Z",
+        "created_at": "2023-08-28T13:32:32.956Z",
+        "updated_at": "2023-08-27T15:43:58.185Z",
+        "course_id": "59c9e8bb-0121-4ecc-ae0a-87f6e006e419"
+      },
+      {
+        "id": "c277f4ee-776c-41b7-be3d-2d386e2cb414",
+        "title": "Module 4: Case Studies",
+        "description": "Analyze and discuss case studies to enhance understanding",
+        "date_created": "2023-08-27T17:22:57.249Z",
+        "last_updated": "2023-08-28T10:50:53.468Z",
+        "created_at": "2023-08-28T10:40:19.446Z",
+        "updated_at": "2023-08-28T04:46:06.486Z",
+        "course_id": "2d9abefe-34ea-499a-bea4-6a79b936e7a0"
+      },
+      {
+        "id": "11862903-018b-4adf-9659-6eb3c8a73fb1",
+        "title": "Module 5: Final Project",
+        "description": "Complete a final project to showcase your skills",
+        "date_created": "2023-08-28T00:39:23.526Z",
+        "last_updated": "2023-08-27T19:15:58.966Z",
+        "created_at": "2023-08-27T20:37:17.518Z",
+        "updated_at": "2023-08-27T16:06:08.686Z",
+        "course_id": "1f06da34-77f3-46f9-ac70-7e2f4d2ae772"
+      }
+    ],
+    "exam": [
+      {
+        "id": "8e13bbed-f307-4d42-8fc7-b0ba0db61020",
+        "title": "Midterm Exam",
+        "description": "Assess your understanding of the course material at the midpoint",
+        "date_created": "2023-08-28T04:24:31.139Z",
+        "last_updated": "2023-08-28T10:36:03.975Z",
+        "created_at": "2023-08-27T19:38:35.100Z",
+        "updated_at": "2023-08-28T09:48:07.190Z",
+        "course_id": "67256077-99fd-4581-b53c-b08a1c121ee1"
+      },
+      {
+        "id": "3468179a-9754-4819-8b12-de7218790b8f",
+        "title": "Final Exam",
+        "description": "Evaluate your overall knowledge and skills acquired throughout the course",
+        "date_created": "2023-08-27T15:43:26.468Z",
+        "last_updated": "2023-08-27T19:06:23.388Z",
+        "created_at": "2023-08-28T06:53:10.937Z",
+        "updated_at": "2023-08-27T14:50:19.432Z",
+        "course_id": "2d9abefe-34ea-499a-bea4-6a79b936e7a0"
+      },
+      {
+        "id": "3f2b2a2a-bf7c-4d7b-8733-71c85709d5f3",
+        "title": "Practical Assessment",
+        "description": "Demonstrate your practical abilities through hands-on tasks",
+        "date_created": "2023-08-28T04:47:13.018Z",
+        "last_updated": "2023-08-27T21:21:24.432Z",
+        "created_at": "2023-08-27T17:53:14.340Z",
+        "updated_at": "2023-08-28T01:29:14.864Z",
+        "course_id": "2d9abefe-34ea-499a-bea4-6a79b936e7a0"
+      },
+      {
+        "id": "390a7165-bf8e-46f7-b293-fb60eb1389b0",
+        "title": "Case Study Analysis",
+        "description": "Analyze and provide insights on a given case study",
+        "date_created": "2023-08-28T01:24:33.764Z",
+        "last_updated": "2023-08-28T11:55:36.551Z",
+        "created_at": "2023-08-28T01:20:40.497Z",
+        "updated_at": "2023-08-28T00:33:15.118Z",
+        "course_id": "2d9abefe-34ea-499a-bea4-6a79b936e7a0"
+      },
+      {
+        "id": "6b134d79-f411-4059-b2e2-bde7fad8f656",
+        "title": "Quiz",
+        "description": "Test your knowledge with a short quiz",
+        "date_created": "2023-08-27T18:29:57.417Z",
+        "last_updated": "2023-08-27T18:53:27.880Z",
+        "created_at": "2023-08-28T11:16:06.238Z",
+        "updated_at": "2023-08-28T07:52:24.775Z",
+        "course_id": "1f06da34-77f3-46f9-ac70-7e2f4d2ae772"
+      }
+    ],
+    "certificate": [
+      {
+        "id": "95bb7432-7da3-4ffc-80d4-9f614aa40646",
+        "title": "Certificate of Completion",
+        "description": "Receive a certificate upon successful completion of the course",
+        "date_created": "2023-08-27T21:05:30.620Z",
+        "last_updated": "2023-08-28T06:19:15.469Z",
+        "created_at": "2023-08-28T10:53:40.069Z",
+        "updated_at": "2023-08-28T10:12:45.989Z",
+        "exam_id": "3468179a-9754-4819-8b12-de7218790b8f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "abc08cb7-28f1-4e5a-84f3-ba13a24c58db",
+        "title": "Advanced Certification",
+        "description": "Earn an advanced certification for mastering advanced concepts",
+        "date_created": "2023-08-28T09:03:26.826Z",
+        "last_updated": "2023-08-28T06:19:04.423Z",
+        "created_at": "2023-08-28T00:32:49.397Z",
+        "updated_at": "2023-08-28T03:13:49.750Z",
+        "exam_id": "6b134d79-f411-4059-b2e2-bde7fad8f656",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9f4d3136-8b56-4fc5-82a7-078795cb39b4",
+        "title": "Professional Diploma",
+        "description": "Obtain a professional diploma to enhance your credentials",
+        "date_created": "2023-08-27T16:06:13.613Z",
+        "last_updated": "2023-08-27T19:04:29.450Z",
+        "created_at": "2023-08-28T05:12:48.329Z",
+        "updated_at": "2023-08-27T14:42:52.272Z",
+        "exam_id": "3f2b2a2a-bf7c-4d7b-8733-71c85709d5f3",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d8a03ff5-ef7a-49ae-86f6-f986565c1783",
+        "title": "Specialization Certificate",
+        "description": "Receive a specialization certificate in a specific area of study",
+        "date_created": "2023-08-27T15:16:00.128Z",
+        "last_updated": "2023-08-28T13:27:21.333Z",
+        "created_at": "2023-08-27T16:50:32.569Z",
+        "updated_at": "2023-08-27T17:56:13.480Z",
+        "exam_id": "390a7165-bf8e-46f7-b293-fb60eb1389b0",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "52ae602b-197e-4f58-9b01-2f881a4275c0",
+        "title": "Master's Certification",
+        "description": "Achieve a master's certification for comprehensive knowledge and expertise",
+        "date_created": "2023-08-28T00:12:12.058Z",
+        "last_updated": "2023-08-28T06:19:24.756Z",
+        "created_at": "2023-08-27T19:04:34.998Z",
+        "updated_at": "2023-08-28T00:27:14.037Z",
+        "exam_id": "3f2b2a2a-bf7c-4d7b-8733-71c85709d5f3",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "9ab44da1-74b3-43a7-9d42-9ba093351060",
+        "email": "Liana.Johnson75@gmail.com",
+        "firstName": "Marshall",
+        "lastName": "Franey",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/144.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "281e05f0-f97d-4a6e-8c84-c441bfb77bac",
+        "email": "Johnnie_Quitzon81@hotmail.com",
+        "firstName": "Diamond",
+        "lastName": "Hamill",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/412.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "41d7c1f8-4534-4cc8-a0f5-e7a5e4fb6d3d",
+        "email": "Jermain90@yahoo.com",
+        "firstName": "Lavada",
+        "lastName": "Shields",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/130.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "8e1466ff-3d6a-4e0b-8f2a-3ed480f4f35b",
+        "email": "Otho_Kuphal@yahoo.com",
+        "firstName": "Stephon",
+        "lastName": "Cartwright",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/609.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b5319715-67bb-49cb-bf9d-c724ac0015fd",
+        "email": "Birdie.Mertz-Hauck62@yahoo.com",
+        "firstName": "Major",
+        "lastName": "Hagenes",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12684478",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "course": [
+      {
+        "id": "14ffb7f9-53ce-4c05-bcf3-2731ef63d67b",
+        "title": "Introduction to Programming",
+        "description": "Learn the basics of programming and develop your coding skills",
+        "fee": 17559,
+        "date_created": "2023-08-27T16:45:19.023Z",
+        "last_updated": "2023-08-28T04:33:43.572Z",
+        "created_at": "2023-08-28T05:18:32.328Z",
+        "updated_at": "2023-08-27T14:34:08.471Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "82cad6ac-a9bb-46d4-9f64-010998592d69",
+        "title": "Marketing Strategies for Small Businesses",
+        "description": "Discover effective marketing strategies to grow your small business",
+        "fee": 2301,
+        "date_created": "2023-08-27T22:08:06.189Z",
+        "last_updated": "2023-08-28T03:57:46.091Z",
+        "created_at": "2023-08-27T20:22:32.961Z",
+        "updated_at": "2023-08-28T13:27:45.984Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "adb4b583-4169-4cd5-be59-823ee8b0860b",
+        "title": "Financial Management for Entrepreneurs",
+        "description": "Master financial management techniques to drive entrepreneurial success",
+        "fee": 26915,
+        "date_created": "2023-08-27T15:53:32.435Z",
+        "last_updated": "2023-08-27T19:50:11.581Z",
+        "created_at": "2023-08-28T06:34:08.085Z",
+        "updated_at": "2023-08-28T04:00:04.949Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9e2dadb0-5609-45bb-902c-0202202f6305",
+        "title": "Artificial Intelligence and Machine Learning",
+        "description": "Explore the exciting field of AI and ML and its applications",
+        "fee": 42474,
+        "date_created": "2023-08-28T04:15:43.343Z",
+        "last_updated": "2023-08-28T13:29:04.620Z",
+        "created_at": "2023-08-27T16:40:40.519Z",
+        "updated_at": "2023-08-28T12:42:53.651Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "162182eb-de76-4931-8888-f28225d1e7f6",
+        "title": "Web Development Fundamentals",
+        "description": "Build a solid foundation in web development with HTML, CSS, and JavaScript",
+        "fee": 18932,
+        "date_created": "2023-08-28T08:47:19.750Z",
+        "last_updated": "2023-08-28T11:27:03.312Z",
+        "created_at": "2023-08-28T11:19:26.349Z",
+        "updated_at": "2023-08-27T15:52:24.510Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "module": [
+      {
+        "id": "bc333bbb-984a-47b5-88ab-a7378e1cce39",
+        "title": "Module 1: Introduction",
+        "description": "Get started with the course and learn the fundamentals",
+        "date_created": "2023-08-28T09:22:46.315Z",
+        "last_updated": "2023-08-28T13:29:44.430Z",
+        "created_at": "2023-08-27T21:43:23.766Z",
+        "updated_at": "2023-08-27T23:07:44.789Z",
+        "course_id": "162182eb-de76-4931-8888-f28225d1e7f6"
+      },
+      {
+        "id": "eed4de0c-b63f-4c96-a8fa-0cd418d17ba4",
+        "title": "Module 2: Advanced Concepts",
+        "description": "Dive deeper into advanced concepts and techniques",
+        "date_created": "2023-08-28T02:13:57.377Z",
+        "last_updated": "2023-08-27T15:07:02.612Z",
+        "created_at": "2023-08-27T15:01:35.566Z",
+        "updated_at": "2023-08-28T08:27:00.535Z",
+        "course_id": "82cad6ac-a9bb-46d4-9f64-010998592d69"
+      },
+      {
+        "id": "5db9567f-25fb-4641-a2a8-d133d5feb9e8",
+        "title": "Module 3: Practical Applications",
+        "description": "Apply your knowledge to real-world scenarios",
+        "date_created": "2023-08-28T03:14:14.692Z",
+        "last_updated": "2023-08-28T11:22:53.085Z",
+        "created_at": "2023-08-28T03:54:16.389Z",
+        "updated_at": "2023-08-27T17:50:27.869Z",
+        "course_id": "162182eb-de76-4931-8888-f28225d1e7f6"
+      },
+      {
+        "id": "56242bfb-9760-4a0a-abb5-3c4eead3c3f7",
+        "title": "Module 4: Case Studies",
+        "description": "Analyze and discuss case studies to enhance your understanding",
+        "date_created": "2023-08-28T07:31:55.496Z",
+        "last_updated": "2023-08-27T18:12:56.177Z",
+        "created_at": "2023-08-27T20:53:11.783Z",
+        "updated_at": "2023-08-28T06:13:09.494Z",
+        "course_id": "adb4b583-4169-4cd5-be59-823ee8b0860b"
+      },
+      {
+        "id": "c7bd583c-e051-4870-9b81-ed6d0f8a55ab",
+        "title": "Module 5: Final Project",
+        "description": "Complete a final project to showcase your skills",
+        "date_created": "2023-08-28T07:03:33.392Z",
+        "last_updated": "2023-08-28T06:00:00.703Z",
+        "created_at": "2023-08-27T16:27:45.442Z",
+        "updated_at": "2023-08-27T23:10:17.866Z",
+        "course_id": "162182eb-de76-4931-8888-f28225d1e7f6"
+      }
+    ],
+    "exam": [
+      {
+        "id": "afc3c585-4005-46d8-966b-d4990811f603",
+        "title": "Midterm Exam",
+        "description": "Test your knowledge and understanding of the course material",
+        "date_created": "2023-08-28T12:41:42.808Z",
+        "last_updated": "2023-08-27T23:48:16.948Z",
+        "created_at": "2023-08-27T19:23:27.128Z",
+        "updated_at": "2023-08-28T08:35:27.110Z",
+        "course_id": "14ffb7f9-53ce-4c05-bcf3-2731ef63d67b"
+      },
+      {
+        "id": "1a5a2542-c783-4fb4-88c5-aee3c42f66fe",
+        "title": "Final Exam",
+        "description": "Evaluate your overall comprehension and skills",
+        "date_created": "2023-08-28T03:02:15.657Z",
+        "last_updated": "2023-08-28T05:50:03.854Z",
+        "created_at": "2023-08-27T23:07:02.523Z",
+        "updated_at": "2023-08-28T07:17:56.145Z",
+        "course_id": "82cad6ac-a9bb-46d4-9f64-010998592d69"
+      },
+      {
+        "id": "3182060c-d211-44a7-8c94-18a1e33ae040",
+        "title": "Practical Assessment",
+        "description": "Demonstrate your practical abilities through hands-on tasks",
+        "date_created": "2023-08-28T09:26:03.359Z",
+        "last_updated": "2023-08-28T05:35:56.529Z",
+        "created_at": "2023-08-28T04:58:17.941Z",
+        "updated_at": "2023-08-27T16:30:12.746Z",
+        "course_id": "adb4b583-4169-4cd5-be59-823ee8b0860b"
+      },
+      {
+        "id": "ef41c8a1-32e3-4725-8ebc-fe0bb61a39c1",
+        "title": "Case Study Analysis",
+        "description": "Analyze and provide insights on a given case study",
+        "date_created": "2023-08-28T01:48:21.220Z",
+        "last_updated": "2023-08-28T00:09:02.879Z",
+        "created_at": "2023-08-27T17:22:45.739Z",
+        "updated_at": "2023-08-27T14:49:06.432Z",
+        "course_id": "82cad6ac-a9bb-46d4-9f64-010998592d69"
+      },
+      {
+        "id": "9ab37f4b-cbe2-47e9-a4b0-28071bf995bc",
+        "title": "Quiz",
+        "description": "Assess your understanding with a short quiz",
+        "date_created": "2023-08-28T07:00:12.499Z",
+        "last_updated": "2023-08-28T03:39:21.097Z",
+        "created_at": "2023-08-27T17:20:59.448Z",
+        "updated_at": "2023-08-28T01:40:20.803Z",
+        "course_id": "82cad6ac-a9bb-46d4-9f64-010998592d69"
+      }
+    ],
+    "certificate": [
+      {
+        "id": "8288215d-e763-4c53-9404-1a92423cff24",
+        "title": "Certificate of Completion",
+        "description": "Receive a certificate upon successful completion of the course",
+        "date_created": "2023-08-28T06:22:34.299Z",
+        "last_updated": "2023-08-28T11:53:12.772Z",
+        "created_at": "2023-08-28T14:12:06.704Z",
+        "updated_at": "2023-08-27T17:06:50.585Z",
+        "exam_id": "ef41c8a1-32e3-4725-8ebc-fe0bb61a39c1",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "224205e1-6411-4961-8051-493607c02df2",
+        "title": "Advanced Certificate",
+        "description": "Earn an advanced certificate for exceptional performance",
+        "date_created": "2023-08-28T10:25:26.284Z",
+        "last_updated": "2023-08-28T10:47:02.108Z",
+        "created_at": "2023-08-28T03:00:51.832Z",
+        "updated_at": "2023-08-27T17:24:52.934Z",
+        "exam_id": "3182060c-d211-44a7-8c94-18a1e33ae040",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d39c0be1-ff7d-49f3-b930-6561daf58c1a",
+        "title": "Professional Diploma",
+        "description": "Obtain a professional diploma in the respective field",
+        "date_created": "2023-08-27T23:16:45.612Z",
+        "last_updated": "2023-08-27T20:50:42.556Z",
+        "created_at": "2023-08-28T07:05:00.653Z",
+        "updated_at": "2023-08-28T11:22:42.274Z",
+        "exam_id": "9ab37f4b-cbe2-47e9-a4b0-28071bf995bc",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "14bc3305-cb3a-480d-b862-d7b7aa51e91d",
+        "title": "Specialization Certificate",
+        "description": "Achieve a specialization certificate for focused expertise",
+        "date_created": "2023-08-28T05:07:10.528Z",
+        "last_updated": "2023-08-28T01:09:50.115Z",
+        "created_at": "2023-08-28T11:02:49.435Z",
+        "updated_at": "2023-08-27T15:35:24.651Z",
+        "exam_id": "ef41c8a1-32e3-4725-8ebc-fe0bb61a39c1",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f7a14b70-cfe1-4e47-aa48-4f16525a19e0",
+        "title": "Master's Certification",
+        "description": "Attain a prestigious master's certification",
+        "date_created": "2023-08-27T23:31:39.247Z",
+        "last_updated": "2023-08-27T17:19:15.880Z",
+        "created_at": "2023-08-28T03:14:03.174Z",
+        "updated_at": "2023-08-28T10:39:47.706Z",
+        "exam_id": "1a5a2542-c783-4fb4-88c5-aee3c42f66fe",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "2cd13c46-a783-4842-ad8e-87cea4ef24a6",
+        "email": "Eliane.Brakus73@hotmail.com",
+        "firstName": "Kole",
+        "lastName": "Douglas",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/24534515",
+        "tenantId": null
+      },
+      {
+        "reference": "7744f373-1939-4129-bcb0-4d78c9d5a35b",
+        "email": "Dorothy.Marks78@hotmail.com",
+        "firstName": "Waldo",
+        "lastName": "Murray",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1030.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a87fcca7-608a-42ef-a221-71eb25483578",
+        "email": "Kory31@yahoo.com",
+        "firstName": "Darren",
+        "lastName": "Hilll",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/45840471",
+        "tenantId": null
+      },
+      {
+        "reference": "f56ac7a5-72e7-480e-b9a4-a58594d50b67",
+        "email": "Conor_Cremin22@yahoo.com",
+        "firstName": "Thelma",
+        "lastName": "Frami",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/79617008",
+        "tenantId": null
+      },
+      {
+        "reference": "e8b13419-fe4b-452c-b2a3-0c8269b9a20b",
+        "email": "Franz_Wiza35@yahoo.com",
+        "firstName": "Heather",
+        "lastName": "Keeling",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1033.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "course": [
+      {
+        "id": "a0253bbc-690b-4734-a550-368c4db81560",
+        "title": "Introduction to Programming",
+        "description": "Learn the basics of programming with Python",
+        "fee": 72644,
+        "date_created": "2023-08-27T23:57:37.098Z",
+        "last_updated": "2023-08-28T04:39:54.992Z",
+        "created_at": "2023-08-28T02:21:11.824Z",
+        "updated_at": "2023-08-28T03:52:31.605Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c67e931a-eed7-4df3-a9c3-4a96b5b7dacb",
+        "title": "Digital Marketing Fundamentals",
+        "description": "Explore the world of digital marketing and its strategies",
+        "fee": 47719,
+        "date_created": "2023-08-28T08:58:50.860Z",
+        "last_updated": "2023-08-27T14:16:53.482Z",
+        "created_at": "2023-08-27T22:36:02.215Z",
+        "updated_at": "2023-08-27T16:46:43.518Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b4d21071-ac4a-4fc2-aca6-bae75b9449eb",
+        "title": "Financial Management Basics",
+        "description": "Understand the fundamentals of financial management",
+        "fee": 26802,
+        "date_created": "2023-08-28T02:06:08.376Z",
+        "last_updated": "2023-08-27T21:55:20.222Z",
+        "created_at": "2023-08-27T19:37:42.198Z",
+        "updated_at": "2023-08-27T21:03:36.243Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "fdcc4685-cd3d-411f-981f-604232aca4ac",
+        "title": "Artificial Intelligence in Healthcare",
+        "description": "Discover the applications of AI in healthcare industry",
+        "fee": 53380,
+        "date_created": "2023-08-28T03:11:08.081Z",
+        "last_updated": "2023-08-28T06:41:44.191Z",
+        "created_at": "2023-08-27T22:03:43.271Z",
+        "updated_at": "2023-08-28T06:28:06.593Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "68ecbaa0-9608-44e8-94c7-265290b41c93",
+        "title": "Environmental Sustainability",
+        "description": "Learn about the importance of environmental sustainability",
+        "fee": 57138,
+        "date_created": "2023-08-28T05:33:18.668Z",
+        "last_updated": "2023-08-27T15:32:47.296Z",
+        "created_at": "2023-08-28T03:52:59.879Z",
+        "updated_at": "2023-08-28T05:22:02.962Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "module": [
+      {
+        "id": "85f08286-10a1-458c-b9e2-7f651bdef925",
+        "title": "Variables and Data Types",
+        "description": "Learn about variables and different data types in programming",
+        "date_created": "2023-08-28T03:02:40.999Z",
+        "last_updated": "2023-08-28T06:20:59.868Z",
+        "created_at": "2023-08-28T02:00:28.967Z",
+        "updated_at": "2023-08-27T22:20:06.352Z",
+        "course_id": "68ecbaa0-9608-44e8-94c7-265290b41c93"
+      },
+      {
+        "id": "ec8eca26-2232-4d45-8b21-eaabd644c12d",
+        "title": "Search Engine Optimization",
+        "description": "Optimize websites for better search engine rankings",
+        "date_created": "2023-08-28T10:54:14.504Z",
+        "last_updated": "2023-08-27T21:43:17.083Z",
+        "created_at": "2023-08-27T17:36:59.028Z",
+        "updated_at": "2023-08-28T03:05:42.225Z",
+        "course_id": "b4d21071-ac4a-4fc2-aca6-bae75b9449eb"
+      },
+      {
+        "id": "887c8639-8765-4b87-a8b1-99feaac43b62",
+        "title": "Budgeting and Forecasting",
+        "description": "Manage budgets and create financial forecasts",
+        "date_created": "2023-08-28T00:51:11.710Z",
+        "last_updated": "2023-08-27T20:28:06.606Z",
+        "created_at": "2023-08-28T08:17:40.706Z",
+        "updated_at": "2023-08-27T22:32:25.952Z",
+        "course_id": "fdcc4685-cd3d-411f-981f-604232aca4ac"
+      },
+      {
+        "id": "3608918f-ad0f-4c9b-aa1b-5947e261c01f",
+        "title": "Machine Learning Algorithms",
+        "description": "Explore various machine learning algorithms",
+        "date_created": "2023-08-27T21:33:04.725Z",
+        "last_updated": "2023-08-27T17:28:33.193Z",
+        "created_at": "2023-08-28T01:35:40.898Z",
+        "updated_at": "2023-08-28T03:50:00.068Z",
+        "course_id": "68ecbaa0-9608-44e8-94c7-265290b41c93"
+      },
+      {
+        "id": "7f988a4d-9614-409e-9c15-3e8a696e57bf",
+        "title": "Renewable Energy Sources",
+        "description": "Discover different renewable energy sources and their benefits",
+        "date_created": "2023-08-28T06:36:03.949Z",
+        "last_updated": "2023-08-27T20:20:16.422Z",
+        "created_at": "2023-08-27T22:26:30.470Z",
+        "updated_at": "2023-08-27T23:33:17.051Z",
+        "course_id": "c67e931a-eed7-4df3-a9c3-4a96b5b7dacb"
+      }
+    ],
+    "exam": [
+      {
+        "id": "85e7b19e-aa42-4745-bd08-05a6428d6990",
+        "title": "Final Exam",
+        "description": "Test your knowledge with the final exam",
+        "date_created": "2023-08-27T23:11:26.612Z",
+        "last_updated": "2023-08-28T06:25:38.132Z",
+        "created_at": "2023-08-27T23:20:03.687Z",
+        "updated_at": "2023-08-28T09:41:30.836Z",
+        "course_id": "b4d21071-ac4a-4fc2-aca6-bae75b9449eb"
+      },
+      {
+        "id": "9657e149-80c3-418a-8a5e-3aa79e9ab86e",
+        "title": "Certification Assessment",
+        "description": "Assess your skills for certification",
+        "date_created": "2023-08-28T09:15:26.274Z",
+        "last_updated": "2023-08-28T08:55:28.894Z",
+        "created_at": "2023-08-27T22:44:50.587Z",
+        "updated_at": "2023-08-28T02:09:39.493Z",
+        "course_id": "a0253bbc-690b-4734-a550-368c4db81560"
+      },
+      {
+        "id": "34648efa-b451-4731-b335-4a3806b10710",
+        "title": "Midterm Evaluation",
+        "description": "Evaluate your understanding with a midterm exam",
+        "date_created": "2023-08-28T02:59:47.820Z",
+        "last_updated": "2023-08-28T04:33:44.019Z",
+        "created_at": "2023-08-28T08:30:17.581Z",
+        "updated_at": "2023-08-28T01:58:04.131Z",
+        "course_id": "a0253bbc-690b-4734-a550-368c4db81560"
+      },
+      {
+        "id": "13e54d6c-c98d-4fe2-b55c-67974f5ee0db",
+        "title": "Practical Exam",
+        "description": "Demonstrate practical skills in the exam",
+        "date_created": "2023-08-28T09:20:26.514Z",
+        "last_updated": "2023-08-27T19:59:44.206Z",
+        "created_at": "2023-08-28T12:31:49.786Z",
+        "updated_at": "2023-08-28T03:28:54.388Z",
+        "course_id": "b4d21071-ac4a-4fc2-aca6-bae75b9449eb"
+      },
+      {
+        "id": "efedb339-a4d8-4da1-b4fe-74f8fa260c4e",
+        "title": "Quiz",
+        "description": "Check your understanding with a quiz",
+        "date_created": "2023-08-28T08:46:33.450Z",
+        "last_updated": "2023-08-28T06:40:13.118Z",
+        "created_at": "2023-08-27T17:36:42.066Z",
+        "updated_at": "2023-08-28T01:02:36.424Z",
+        "course_id": "fdcc4685-cd3d-411f-981f-604232aca4ac"
+      }
+    ],
+    "certificate": [
+      {
+        "id": "ab22a94e-0c7b-4755-b78f-59530295e79f",
+        "title": "Certificate of Completion",
+        "description": "Receive a certificate upon completion of the course",
+        "date_created": "2023-08-27T19:49:39.088Z",
+        "last_updated": "2023-08-28T07:46:54.882Z",
+        "created_at": "2023-08-28T06:41:00.388Z",
+        "updated_at": "2023-08-27T21:26:47.823Z",
+        "exam_id": "efedb339-a4d8-4da1-b4fe-74f8fa260c4e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b2d143b5-12a3-4753-8dc1-d34186bceb9d",
+        "title": "Professional Certification",
+        "description": "Earn a professional certification to enhance your career",
+        "date_created": "2023-08-27T23:54:34.112Z",
+        "last_updated": "2023-08-28T11:53:54.429Z",
+        "created_at": "2023-08-27T14:32:05.956Z",
+        "updated_at": "2023-08-27T14:46:03.176Z",
+        "exam_id": "efedb339-a4d8-4da1-b4fe-74f8fa260c4e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a853e584-86b5-4c92-96d1-7c833dfbe232",
+        "title": "Advanced Diploma",
+        "description": "Obtain an advanced diploma in the field",
+        "date_created": "2023-08-27T19:22:16.133Z",
+        "last_updated": "2023-08-27T14:27:22.875Z",
+        "created_at": "2023-08-27T23:25:15.358Z",
+        "updated_at": "2023-08-27T22:04:09.912Z",
+        "exam_id": "13e54d6c-c98d-4fe2-b55c-67974f5ee0db",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a6904d7d-5dab-49d8-8caf-b523f6efa624",
+        "title": "Specialization Certificate",
+        "description": "Get a specialization certificate to showcase your expertise",
+        "date_created": "2023-08-28T07:03:16.329Z",
+        "last_updated": "2023-08-27T14:50:56.165Z",
+        "created_at": "2023-08-28T11:10:58.807Z",
+        "updated_at": "2023-08-28T10:11:58.709Z",
+        "exam_id": "34648efa-b451-4731-b335-4a3806b10710",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c9d74d81-3fc6-407f-a000-946c9c01c81c",
+        "title": "Master's Degree",
+        "description": "Achieve a master's degree in the subject",
+        "date_created": "2023-08-27T16:41:18.820Z",
+        "last_updated": "2023-08-28T01:30:02.883Z",
+        "created_at": "2023-08-28T06:15:06.149Z",
+        "updated_at": "2023-08-28T05:05:24.543Z",
+        "exam_id": "85e7b19e-aa42-4745-bd08-05a6428d6990",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "461e3dc3-8e25-4e0e-afb5-b05ac8037367",
+        "email": "Erich_Mueller81@gmail.com",
+        "firstName": "Jett",
+        "lastName": "Schumm",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/465.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "8706cc07-1ef1-414e-9023-13607586bb53",
+        "email": "Graciela40@hotmail.com",
+        "firstName": "Franz",
+        "lastName": "Watsica",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/7584953",
+        "tenantId": null
+      },
+      {
+        "reference": "0189fd9e-9aa9-408c-bb75-f8c4ba85588b",
+        "email": "Deborah_Johnston63@yahoo.com",
+        "firstName": "Cathy",
+        "lastName": "McGlynn",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/72959367",
+        "tenantId": null
+      },
+      {
+        "reference": "8ae94f8d-d436-4a20-a08c-8ef00ab19639",
+        "email": "Shaylee.Wolf@gmail.com",
+        "firstName": "Chandler",
+        "lastName": "Brakus",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/74409286",
+        "tenantId": null
+      },
+      {
+        "reference": "27fd41b8-cdda-484f-85be-5689727c27c6",
+        "email": "Delpha.Abernathy@gmail.com",
+        "firstName": "Kory",
+        "lastName": "Bogisich",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73885394",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "course": [
+      {
+        "id": "c8135fe3-c076-4746-9c52-2bb1e5680941",
+        "title": "Introduction to Programming",
+        "description": "Learn the basics of programming with Python",
+        "fee": 70192,
+        "date_created": "2023-08-27T21:34:20.152Z",
+        "last_updated": "2023-08-27T20:19:33.240Z",
+        "created_at": "2023-08-27T14:23:36.596Z",
+        "updated_at": "2023-08-28T11:30:40.459Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "e132fc69-dbfe-4078-83fb-a9a80930e4a2",
+        "title": "Digital Marketing Fundamentals",
+        "description": "Master the essentials of digital marketing strategies",
+        "fee": 74781,
+        "date_created": "2023-08-27T15:41:22.213Z",
+        "last_updated": "2023-08-27T19:46:49.900Z",
+        "created_at": "2023-08-27T17:37:25.496Z",
+        "updated_at": "2023-08-28T06:26:49.613Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "e7c0d65d-c30a-410b-b0ff-577993f4d844",
+        "title": "Financial Management 101",
+        "description": "Gain knowledge in financial planning and analysis",
+        "fee": 45614,
+        "date_created": "2023-08-28T12:16:26.893Z",
+        "last_updated": "2023-08-27T20:00:50.032Z",
+        "created_at": "2023-08-27T17:52:00.790Z",
+        "updated_at": "2023-08-28T05:19:19.171Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b30bcc09-3d74-4d75-afb5-7cc2175636a8",
+        "title": "Artificial Intelligence Applications",
+        "description": "Explore the applications of AI in various industries",
+        "fee": 79499,
+        "date_created": "2023-08-28T12:22:05.795Z",
+        "last_updated": "2023-08-27T20:36:11.385Z",
+        "created_at": "2023-08-28T01:06:23.982Z",
+        "updated_at": "2023-08-28T09:24:53.589Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "254dfa58-6041-4d5a-92b8-5413473fe47a",
+        "title": "Web Development Bootcamp",
+        "description": "Become a full-stack web developer with hands-on projects",
+        "fee": 22006,
+        "date_created": "2023-08-28T14:09:46.750Z",
+        "last_updated": "2023-08-28T10:49:05.490Z",
+        "created_at": "2023-08-28T09:39:13.918Z",
+        "updated_at": "2023-08-28T06:35:56.668Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "module": [
+      {
+        "id": "c63b2c74-989e-466e-aa00-a9248bacc0c3",
+        "title": "Module 1: Introduction",
+        "description": "Get started with the course and understand the fundamentals",
+        "date_created": "2023-08-27T16:38:37.186Z",
+        "last_updated": "2023-08-28T09:37:39.227Z",
+        "created_at": "2023-08-27T14:45:40.846Z",
+        "updated_at": "2023-08-27T20:21:18.285Z",
+        "course_id": "c8135fe3-c076-4746-9c52-2bb1e5680941"
+      },
+      {
+        "id": "b88e482a-d692-4852-81af-8a95473a73f4",
+        "title": "Module 2: Advanced Techniques",
+        "description": "Dive deeper into advanced techniques and concepts",
+        "date_created": "2023-08-27T16:22:36.865Z",
+        "last_updated": "2023-08-27T21:27:48.488Z",
+        "created_at": "2023-08-28T04:18:24.404Z",
+        "updated_at": "2023-08-27T17:03:07.945Z",
+        "course_id": "e7c0d65d-c30a-410b-b0ff-577993f4d844"
+      },
+      {
+        "id": "e8b78cbf-90d5-4793-8d4f-5f93affcf1ef",
+        "title": "Module 3: Case Studies",
+        "description": "Learn from real-world case studies and examples",
+        "date_created": "2023-08-28T11:46:19.155Z",
+        "last_updated": "2023-08-28T07:28:06.655Z",
+        "created_at": "2023-08-28T03:32:35.400Z",
+        "updated_at": "2023-08-28T09:19:56.028Z",
+        "course_id": "b30bcc09-3d74-4d75-afb5-7cc2175636a8"
+      },
+      {
+        "id": "f82a808e-cd2f-443e-90d3-07947bab53b0",
+        "title": "Module 4: Practical Exercises",
+        "description": "Apply your knowledge through practical exercises",
+        "date_created": "2023-08-27T15:06:51.596Z",
+        "last_updated": "2023-08-27T19:50:24.703Z",
+        "created_at": "2023-08-27T18:59:36.933Z",
+        "updated_at": "2023-08-28T06:04:21.168Z",
+        "course_id": "c8135fe3-c076-4746-9c52-2bb1e5680941"
+      },
+      {
+        "id": "725bc019-1f9e-47b8-a3c7-f8c54a410fb4",
+        "title": "Module 5: Final Project",
+        "description": "Complete a final project to showcase your skills",
+        "date_created": "2023-08-27T20:17:53.403Z",
+        "last_updated": "2023-08-28T02:45:02.300Z",
+        "created_at": "2023-08-28T06:57:59.836Z",
+        "updated_at": "2023-08-27T20:57:16.286Z",
+        "course_id": "e7c0d65d-c30a-410b-b0ff-577993f4d844"
+      }
+    ],
+    "exam": [
+      {
+        "id": "d4b56631-97c9-4d66-a78e-df4d380207bd",
+        "title": "Midterm Exam",
+        "description": "Assess your understanding halfway through the course",
+        "date_created": "2023-08-28T13:46:58.672Z",
+        "last_updated": "2023-08-28T06:08:32.973Z",
+        "created_at": "2023-08-28T09:23:44.028Z",
+        "updated_at": "2023-08-27T23:49:06.599Z",
+        "course_id": "254dfa58-6041-4d5a-92b8-5413473fe47a"
+      },
+      {
+        "id": "c27c7c2c-ef84-4b95-8305-e73127ec449e",
+        "title": "Final Exam",
+        "description": "Test your knowledge and skills at the end of the course",
+        "date_created": "2023-08-28T01:34:54.387Z",
+        "last_updated": "2023-08-28T05:22:31.199Z",
+        "created_at": "2023-08-27T20:22:24.027Z",
+        "updated_at": "2023-08-27T22:51:34.748Z",
+        "course_id": "c8135fe3-c076-4746-9c52-2bb1e5680941"
+      },
+      {
+        "id": "486330ab-cdbc-4264-b87c-de8738626e12",
+        "title": "Practical Assessment",
+        "description": "Demonstrate your practical abilities through hands-on tasks",
+        "date_created": "2023-08-28T10:43:37.793Z",
+        "last_updated": "2023-08-28T13:36:55.018Z",
+        "created_at": "2023-08-27T14:46:04.691Z",
+        "updated_at": "2023-08-28T01:17:40.756Z",
+        "course_id": "e7c0d65d-c30a-410b-b0ff-577993f4d844"
+      },
+      {
+        "id": "fa6d7dd9-e1e2-4923-a668-2e3f147ca626",
+        "title": "Quiz 1",
+        "description": "Evaluate your comprehension with a short quiz",
+        "date_created": "2023-08-27T20:05:07.429Z",
+        "last_updated": "2023-08-27T14:35:08.023Z",
+        "created_at": "2023-08-28T08:34:00.325Z",
+        "updated_at": "2023-08-28T06:41:43.447Z",
+        "course_id": "e7c0d65d-c30a-410b-b0ff-577993f4d844"
+      },
+      {
+        "id": "5d0e084f-f942-4c78-8551-6d54f6fcd9ab",
+        "title": "Quiz 2",
+        "description": "Challenge yourself with another quiz",
+        "date_created": "2023-08-28T01:37:56.647Z",
+        "last_updated": "2023-08-27T20:14:25.178Z",
+        "created_at": "2023-08-27T19:57:15.718Z",
+        "updated_at": "2023-08-27T21:09:41.290Z",
+        "course_id": "c8135fe3-c076-4746-9c52-2bb1e5680941"
+      }
+    ],
+    "certificate": [
+      {
+        "id": "3c4cd963-ba44-4a8e-ab8f-2147da4f042a",
+        "title": "Certificate of Completion",
+        "description": "Recognizes your successful completion of the course",
+        "date_created": "2023-08-27T20:43:36.638Z",
+        "last_updated": "2023-08-28T05:04:15.628Z",
+        "created_at": "2023-08-28T00:40:21.711Z",
+        "updated_at": "2023-08-28T01:00:20.778Z",
+        "exam_id": "fa6d7dd9-e1e2-4923-a668-2e3f147ca626",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d00ff954-fc45-4b12-a122-3ee648dbc32f",
+        "title": "Professional Achievement Certificate",
+        "description": "Acknowledges your professional achievements in the field",
+        "date_created": "2023-08-28T05:55:13.214Z",
+        "last_updated": "2023-08-28T08:46:13.082Z",
+        "created_at": "2023-08-28T00:59:32.641Z",
+        "updated_at": "2023-08-28T06:41:01.199Z",
+        "exam_id": "c27c7c2c-ef84-4b95-8305-e73127ec449e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b9803857-e6a2-4494-8822-9e11fffd82d3",
+        "title": "Advanced Skills Certification",
+        "description": "Validates your advanced skills and expertise",
+        "date_created": "2023-08-28T03:05:22.287Z",
+        "last_updated": "2023-08-28T09:37:57.921Z",
+        "created_at": "2023-08-28T04:23:51.420Z",
+        "updated_at": "2023-08-27T18:18:20.213Z",
+        "exam_id": "fa6d7dd9-e1e2-4923-a668-2e3f147ca626",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e1d38a52-82c1-47c7-bf05-c656d40b24d2",
+        "title": "Specialization Certificate",
+        "description": "Highlights your specialization in a specific area",
+        "date_created": "2023-08-28T08:19:32.379Z",
+        "last_updated": "2023-08-28T11:27:44.639Z",
+        "created_at": "2023-08-27T16:37:34.808Z",
+        "updated_at": "2023-08-27T23:16:42.610Z",
+        "exam_id": "c27c7c2c-ef84-4b95-8305-e73127ec449e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cd408483-cc16-496f-be38-5ce32de406e6",
+        "title": "Master's Level Certification",
+        "description": "Elevates your certification to a master's level",
+        "date_created": "2023-08-28T05:06:53.316Z",
+        "last_updated": "2023-08-28T01:59:36.439Z",
+        "created_at": "2023-08-27T15:48:42.139Z",
+        "updated_at": "2023-08-28T05:49:21.985Z",
+        "exam_id": "d4b56631-97c9-4d66-a78e-df4d380207bd",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "442904fe-8eab-4306-8c74-5bd29a75ab37",
+        "email": "Vallie_Marquardt@yahoo.com",
+        "firstName": "Reese",
+        "lastName": "Willms",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/634.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "30ecb814-2630-4b7d-a85d-c90b937c36a1",
+        "email": "Maverick71@yahoo.com",
+        "firstName": "Flavie",
+        "lastName": "Considine",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/869.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "4f3f66c3-b79b-44a6-bb48-a4b493e4d654",
+        "email": "Muriel22@gmail.com",
+        "firstName": "Vella",
+        "lastName": "Leannon",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/79492724",
+        "tenantId": null
+      },
+      {
+        "reference": "d7d8df54-c5dc-4248-989a-af6808633bdc",
+        "email": "Savion_Sawayn@hotmail.com",
+        "firstName": "Lilyan",
+        "lastName": "Wolf",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/547.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "17d518e9-d8b9-45d0-bf72-454a3ee024fe",
+        "email": "Magali.Lindgren@hotmail.com",
+        "firstName": "Name",
+        "lastName": "Mann",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1142.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "course": [
+      {
+        "id": "9c476a01-6846-477e-aa78-87695bcfa6d2",
+        "title": "Introduction to Programming",
+        "description": "Learn the basics of programming with Python",
+        "fee": 79794,
+        "date_created": "2023-08-28T03:20:44.923Z",
+        "last_updated": "2023-08-27T21:03:50.889Z",
+        "created_at": "2023-08-27T23:52:12.852Z",
+        "updated_at": "2023-08-27T14:32:45.682Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "47af35e8-1b99-4c54-a04c-7f2b8288c6d5",
+        "title": "Web Development Fundamentals",
+        "description": "Build interactive websites using HTML, CSS, and JavaScript",
+        "fee": 30230,
+        "date_created": "2023-08-27T23:27:39.231Z",
+        "last_updated": "2023-08-28T10:00:32.797Z",
+        "created_at": "2023-08-27T23:42:21.998Z",
+        "updated_at": "2023-08-27T23:30:00.804Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "e42faee3-d517-4c9f-bb6f-797ff62f7d21",
+        "title": "Data Science Essentials",
+        "description": "Explore data analysis techniques using Python and R",
+        "fee": 58357,
+        "date_created": "2023-08-27T16:11:28.091Z",
+        "last_updated": "2023-08-27T23:18:04.519Z",
+        "created_at": "2023-08-28T12:12:51.513Z",
+        "updated_at": "2023-08-27T18:16:54.585Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "90d9aa63-6323-4c35-a4fe-a7ad3519fb1b",
+        "title": "Marketing Strategies",
+        "description": "Master effective marketing strategies for business success",
+        "fee": 20028,
+        "date_created": "2023-08-27T19:04:10.668Z",
+        "last_updated": "2023-08-28T04:00:02.830Z",
+        "created_at": "2023-08-27T20:04:35.285Z",
+        "updated_at": "2023-08-28T09:45:59.413Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "4f5cdb6c-7ce8-4e3b-a113-6ce433efb1db",
+        "title": "Project Management Basics",
+        "description": "Learn essential project management skills for successful project delivery",
+        "fee": 86209,
+        "date_created": "2023-08-27T15:00:38.064Z",
+        "last_updated": "2023-08-28T05:36:19.014Z",
+        "created_at": "2023-08-28T07:38:08.238Z",
+        "updated_at": "2023-08-28T13:26:03.390Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "module": [
+      {
+        "id": "029d80da-afeb-42ce-a1a8-bd55e23d94f1",
+        "title": "Module 1: Introduction",
+        "description": "Get started with the course and understand the key concepts",
+        "date_created": "2023-08-27T17:48:43.172Z",
+        "last_updated": "2023-08-28T04:26:09.635Z",
+        "created_at": "2023-08-28T09:13:30.423Z",
+        "updated_at": "2023-08-28T04:43:26.765Z",
+        "course_id": "4f5cdb6c-7ce8-4e3b-a113-6ce433efb1db"
+      },
+      {
+        "id": "b39c0e34-20ca-47f5-94eb-1943d484a72d",
+        "title": "Module 2: Fundamentals",
+        "description": "Learn the fundamental principles and techniques",
+        "date_created": "2023-08-27T14:52:10.983Z",
+        "last_updated": "2023-08-27T20:28:32.055Z",
+        "created_at": "2023-08-27T14:22:13.836Z",
+        "updated_at": "2023-08-27T21:34:08.216Z",
+        "course_id": "4f5cdb6c-7ce8-4e3b-a113-6ce433efb1db"
+      },
+      {
+        "id": "0b18e92e-d853-4957-a406-3cb0c2a6a633",
+        "title": "Module 3: Advanced Techniques",
+        "description": "Explore advanced techniques and applications",
+        "date_created": "2023-08-28T00:06:27.314Z",
+        "last_updated": "2023-08-28T00:32:00.489Z",
+        "created_at": "2023-08-27T16:09:47.256Z",
+        "updated_at": "2023-08-27T21:21:29.415Z",
+        "course_id": "9c476a01-6846-477e-aa78-87695bcfa6d2"
+      },
+      {
+        "id": "623327d6-a80d-430b-b3a6-b57da517c61e",
+        "title": "Module 4: Case Studies",
+        "description": "Analyze real-world case studies to apply the learned knowledge",
+        "date_created": "2023-08-28T12:01:04.390Z",
+        "last_updated": "2023-08-28T08:16:58.807Z",
+        "created_at": "2023-08-28T04:08:25.206Z",
+        "updated_at": "2023-08-28T03:30:51.601Z",
+        "course_id": "90d9aa63-6323-4c35-a4fe-a7ad3519fb1b"
+      },
+      {
+        "id": "e1cfe6b4-da9a-4f13-85af-b470b35ad2bd",
+        "title": "Module 5: Final Project",
+        "description": "Complete a final project to showcase your skills",
+        "date_created": "2023-08-27T20:30:41.607Z",
+        "last_updated": "2023-08-28T01:23:37.400Z",
+        "created_at": "2023-08-28T01:49:53.319Z",
+        "updated_at": "2023-08-28T04:55:26.804Z",
+        "course_id": "90d9aa63-6323-4c35-a4fe-a7ad3519fb1b"
+      }
+    ],
+    "exam": [
+      {
+        "id": "1b2c3201-e67b-4be6-acfb-8928b889cca4",
+        "title": "Midterm Exam",
+        "description": "Assess your understanding of the course material with the midterm exam",
+        "date_created": "2023-08-28T12:07:53.471Z",
+        "last_updated": "2023-08-28T10:54:18.985Z",
+        "created_at": "2023-08-28T01:05:45.179Z",
+        "updated_at": "2023-08-27T15:07:26.129Z",
+        "course_id": "e42faee3-d517-4c9f-bb6f-797ff62f7d21"
+      },
+      {
+        "id": "2fd902c3-45c2-43ac-83c3-386c15d583cb",
+        "title": "Final Exam",
+        "description": "Evaluate your overall knowledge and skills with the final exam",
+        "date_created": "2023-08-28T12:07:13.856Z",
+        "last_updated": "2023-08-28T01:45:35.563Z",
+        "created_at": "2023-08-28T06:05:15.103Z",
+        "updated_at": "2023-08-27T20:08:58.826Z",
+        "course_id": "9c476a01-6846-477e-aa78-87695bcfa6d2"
+      },
+      {
+        "id": "5dcc4e6e-3e7b-46b5-94b9-6a47827a10fd",
+        "title": "Practical Assessment",
+        "description": "Demonstrate your practical skills through a hands-on assessment",
+        "date_created": "2023-08-28T12:43:11.667Z",
+        "last_updated": "2023-08-28T08:56:44.334Z",
+        "created_at": "2023-08-27T15:09:44.346Z",
+        "updated_at": "2023-08-28T09:02:12.129Z",
+        "course_id": "90d9aa63-6323-4c35-a4fe-a7ad3519fb1b"
+      },
+      {
+        "id": "01d5d0ba-8112-405a-9317-832a4418b38c",
+        "title": "Quiz 1",
+        "description": "Test your knowledge with a short quiz",
+        "date_created": "2023-08-28T03:00:04.903Z",
+        "last_updated": "2023-08-27T15:03:12.148Z",
+        "created_at": "2023-08-27T21:59:56.615Z",
+        "updated_at": "2023-08-27T15:10:42.977Z",
+        "course_id": "9c476a01-6846-477e-aa78-87695bcfa6d2"
+      },
+      {
+        "id": "1e7822a6-7569-4999-8bcf-66b38f8f2d90",
+        "title": "Quiz 2",
+        "description": "Take another quiz to reinforce your learning",
+        "date_created": "2023-08-28T11:15:06.379Z",
+        "last_updated": "2023-08-27T14:50:53.509Z",
+        "created_at": "2023-08-28T13:40:42.537Z",
+        "updated_at": "2023-08-27T20:43:58.560Z",
+        "course_id": "90d9aa63-6323-4c35-a4fe-a7ad3519fb1b"
+      }
+    ],
+    "certificate": [
+      {
+        "id": "c626759c-91e8-4c9f-a76d-dc7f8b8e2476",
+        "title": "Certificate of Completion",
+        "description": "Receive a certificate upon successful completion of the course",
+        "date_created": "2023-08-27T19:46:01.673Z",
+        "last_updated": "2023-08-28T11:20:04.839Z",
+        "created_at": "2023-08-28T00:00:41.775Z",
+        "updated_at": "2023-08-28T05:18:17.825Z",
+        "exam_id": "1e7822a6-7569-4999-8bcf-66b38f8f2d90",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0c98b350-8077-4d0f-b331-6ecab4f76a29",
+        "title": "Advanced Certificate",
+        "description": "Earn an advanced certificate for achieving high performance",
+        "date_created": "2023-08-28T05:58:50.536Z",
+        "last_updated": "2023-08-27T23:10:00.319Z",
+        "created_at": "2023-08-28T06:51:04.990Z",
+        "updated_at": "2023-08-28T03:28:31.905Z",
+        "exam_id": "5dcc4e6e-3e7b-46b5-94b9-6a47827a10fd",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f55a4a6e-416d-45b6-9a37-f73ae2a0ef0e",
+        "title": "Professional Diploma",
+        "description": "Obtain a professional diploma to enhance your credentials",
+        "date_created": "2023-08-28T09:39:41.827Z",
+        "last_updated": "2023-08-28T12:38:37.657Z",
+        "created_at": "2023-08-28T01:45:49.212Z",
+        "updated_at": "2023-08-28T09:31:46.466Z",
+        "exam_id": "01d5d0ba-8112-405a-9317-832a4418b38c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "895d1571-7636-460d-9890-f93c206f8c8a",
+        "title": "Specialization Certificate",
+        "description": "Get a specialization certificate in a specific field of study",
+        "date_created": "2023-08-28T09:04:42.364Z",
+        "last_updated": "2023-08-27T15:29:50.301Z",
+        "created_at": "2023-08-28T13:54:54.855Z",
+        "updated_at": "2023-08-27T14:35:05.773Z",
+        "exam_id": "1e7822a6-7569-4999-8bcf-66b38f8f2d90",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ab2297e6-b251-48fd-9c62-5f4683077b5e",
+        "title": "Master's Certification",
+        "description": "Achieve a prestigious master's certification for outstanding performance",
+        "date_created": "2023-08-28T05:07:40.792Z",
+        "last_updated": "2023-08-28T14:04:15.606Z",
+        "created_at": "2023-08-27T15:51:47.631Z",
+        "updated_at": "2023-08-28T03:43:53.456Z",
+        "exam_id": "2fd902c3-45c2-43ac-83c3-386c15d583cb",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "5a1aa56e-014a-4276-a417-bea225c36bc5",
+        "email": "Karley.Kemmer61@hotmail.com",
+        "firstName": "Marley",
+        "lastName": "Leffler",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/2.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c3e286ef-3c79-41dd-81d1-417dfdcd4513",
+        "email": "Toney_Turcotte@hotmail.com",
+        "firstName": "Melvin",
+        "lastName": "Rippin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/46739401",
+        "tenantId": null
+      },
+      {
+        "reference": "e8d03b0c-8be0-453f-995e-2c20fe846977",
+        "email": "Newell39@yahoo.com",
+        "firstName": "Arianna",
+        "lastName": "Kulas",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/89518230",
+        "tenantId": null
+      },
+      {
+        "reference": "e2570849-41ae-4473-894e-fc101927a06d",
+        "email": "Amalia.Osinski69@hotmail.com",
+        "firstName": "Chaim",
+        "lastName": "Hessel",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/22878868",
+        "tenantId": null
+      },
+      {
+        "reference": "67d702fc-a30c-4619-b4f7-8432dcb073fc",
+        "email": "Viva58@hotmail.com",
+        "firstName": "Reggie",
+        "lastName": "Steuber",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/572.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "course": [
+      {
+        "id": "871f1e0b-f496-4980-bfa6-910ce2540c76",
+        "title": "Introduction to Programming",
+        "description": "Learn the basics of programming",
+        "fee": 99,
+        "date_created": "2023-08-28T02:46:36.128Z",
+        "last_updated": "2023-08-28T05:09:37.471Z",
+        "created_at": "2023-08-28T08:42:12.863Z",
+        "updated_at": "2023-08-28T00:29:30.003Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c462ab19-1b04-4716-aa8c-3043b0142a1a",
+        "title": "Web Development Fundamentals",
+        "description": "Build websites using HTML, CSS, and JavaScript",
+        "fee": 70251,
+        "date_created": "2023-08-27T16:33:17.707Z",
+        "last_updated": "2023-08-27T17:35:42.323Z",
+        "created_at": "2023-08-27T19:17:42.415Z",
+        "updated_at": "2023-08-28T12:56:10.567Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "028cffc5-c738-4a9a-9d07-80420d171ea4",
+        "title": "Data Science Essentials",
+        "description": "Explore data analysis techniques",
+        "fee": 39366,
+        "date_created": "2023-08-27T22:16:30.380Z",
+        "last_updated": "2023-08-28T08:10:37.167Z",
+        "created_at": "2023-08-28T09:57:54.092Z",
+        "updated_at": "2023-08-27T18:02:02.961Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d0d65ba0-8ed3-4646-bed4-b26c68fae43a",
+        "title": "Marketing Strategies",
+        "description": "Master effective marketing tactics",
+        "fee": 31768,
+        "date_created": "2023-08-27T17:25:16.787Z",
+        "last_updated": "2023-08-27T20:50:00.284Z",
+        "created_at": "2023-08-28T08:52:13.060Z",
+        "updated_at": "2023-08-27T22:03:11.776Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c8768538-ba7f-4b00-976d-a8f2a10f7821",
+        "title": "Project Management Basics",
+        "description": "Develop skills to manage projects efficiently",
+        "fee": 42054,
+        "date_created": "2023-08-28T00:39:58.124Z",
+        "last_updated": "2023-08-27T19:55:49.424Z",
+        "created_at": "2023-08-28T11:11:37.178Z",
+        "updated_at": "2023-08-27T17:45:31.747Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "module": [
+      {
+        "id": "056031ed-753c-45b2-8cb5-5cdd96b3b967",
+        "title": "Module 1",
+        "description": "Module 1 description",
+        "date_created": "2023-08-28T09:12:10.960Z",
+        "last_updated": "2023-08-27T14:42:18.762Z",
+        "created_at": "2023-08-28T01:46:41.418Z",
+        "updated_at": "2023-08-28T12:05:58.312Z",
+        "course_id": "871f1e0b-f496-4980-bfa6-910ce2540c76"
+      },
+      {
+        "id": "1157d8f2-f468-4161-b386-d5aaad53077f",
+        "title": "Module 2",
+        "description": "Module 2 description",
+        "date_created": "2023-08-28T07:53:28.575Z",
+        "last_updated": "2023-08-28T04:44:40.174Z",
+        "created_at": "2023-08-28T11:00:00.865Z",
+        "updated_at": "2023-08-27T18:52:45.224Z",
+        "course_id": "d0d65ba0-8ed3-4646-bed4-b26c68fae43a"
+      },
+      {
+        "id": "381cc394-25d3-42cf-ae89-efd3a3a13330",
+        "title": "Module 3",
+        "description": "Module 3 description",
+        "date_created": "2023-08-28T11:59:03.652Z",
+        "last_updated": "2023-08-28T13:24:37.391Z",
+        "created_at": "2023-08-28T02:35:22.082Z",
+        "updated_at": "2023-08-28T00:33:46.800Z",
+        "course_id": "c8768538-ba7f-4b00-976d-a8f2a10f7821"
+      },
+      {
+        "id": "34178fce-4c59-4ddb-9c02-8ece9514d706",
+        "title": "Module 4",
+        "description": "Module 4 description",
+        "date_created": "2023-08-28T11:56:26.715Z",
+        "last_updated": "2023-08-28T13:34:48.027Z",
+        "created_at": "2023-08-27T16:11:15.761Z",
+        "updated_at": "2023-08-27T18:16:45.850Z",
+        "course_id": "d0d65ba0-8ed3-4646-bed4-b26c68fae43a"
+      },
+      {
+        "id": "fafb5eb5-5ad1-485a-b7a6-2f998f6bedfd",
+        "title": "Module 5",
+        "description": "Module 5 description",
+        "date_created": "2023-08-28T09:02:13.814Z",
+        "last_updated": "2023-08-28T12:43:06.979Z",
+        "created_at": "2023-08-28T12:51:31.874Z",
+        "updated_at": "2023-08-28T02:29:23.296Z",
+        "course_id": "c462ab19-1b04-4716-aa8c-3043b0142a1a"
+      }
+    ],
+    "exam": [
+      {
+        "id": "e8d58551-48ba-496e-80e2-4bf64b5a70c0",
+        "title": "Exam 1",
+        "description": "Exam 1 description",
+        "date_created": "2023-08-27T22:05:21.474Z",
+        "last_updated": "2023-08-28T06:01:06.688Z",
+        "created_at": "2023-08-27T21:50:49.262Z",
+        "updated_at": "2023-08-28T13:23:28.423Z",
+        "course_id": "028cffc5-c738-4a9a-9d07-80420d171ea4"
+      },
+      {
+        "id": "f101a8fb-9e73-4fc0-bc23-9ead1f95ee8f",
+        "title": "Exam 2",
+        "description": "Exam 2 description",
+        "date_created": "2023-08-28T06:02:15.578Z",
+        "last_updated": "2023-08-27T16:23:13.395Z",
+        "created_at": "2023-08-27T20:20:15.727Z",
+        "updated_at": "2023-08-27T21:47:17.223Z",
+        "course_id": "c8768538-ba7f-4b00-976d-a8f2a10f7821"
+      },
+      {
+        "id": "6d55fd9c-49bc-429a-8acb-7013170ef2f2",
+        "title": "Exam 3",
+        "description": "Exam 3 description",
+        "date_created": "2023-08-28T12:18:03.685Z",
+        "last_updated": "2023-08-27T16:57:42.542Z",
+        "created_at": "2023-08-28T04:24:48.713Z",
+        "updated_at": "2023-08-28T08:45:17.406Z",
+        "course_id": "871f1e0b-f496-4980-bfa6-910ce2540c76"
+      },
+      {
+        "id": "cf3fd55a-3bc2-4301-a516-82b3c9b19baa",
+        "title": "Exam 4",
+        "description": "Exam 4 description",
+        "date_created": "2023-08-28T07:55:46.847Z",
+        "last_updated": "2023-08-27T16:02:29.670Z",
+        "created_at": "2023-08-28T04:59:37.136Z",
+        "updated_at": "2023-08-28T04:50:06.410Z",
+        "course_id": "c8768538-ba7f-4b00-976d-a8f2a10f7821"
+      },
+      {
+        "id": "a43cba9b-aef2-4a3d-831a-4a54f7ea9120",
+        "title": "Exam 5",
+        "description": "Exam 5 description",
+        "date_created": "2023-08-28T06:14:17.958Z",
+        "last_updated": "2023-08-28T02:32:43.828Z",
+        "created_at": "2023-08-28T00:31:02.730Z",
+        "updated_at": "2023-08-28T08:02:51.817Z",
+        "course_id": "c462ab19-1b04-4716-aa8c-3043b0142a1a"
+      }
+    ],
+    "certificate": [
+      {
+        "id": "57ca5ee7-1549-4894-8561-48a2bac8dadf",
+        "title": "Certificate of Completion",
+        "description": "Earn a certificate for completing the course",
+        "date_created": "2023-08-28T08:40:52.203Z",
+        "last_updated": "2023-08-27T22:23:37.928Z",
+        "created_at": "2023-08-27T18:19:15.888Z",
+        "updated_at": "2023-08-28T09:26:12.443Z",
+        "exam_id": "f101a8fb-9e73-4fc0-bc23-9ead1f95ee8f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bf6c5f6b-24d6-43b5-b955-97f326c12443",
+        "title": "Professional Certificate",
+        "description": "Get a professional certificate in the field",
+        "date_created": "2023-08-27T14:32:32.988Z",
+        "last_updated": "2023-08-28T12:49:10.898Z",
+        "created_at": "2023-08-28T03:35:04.847Z",
+        "updated_at": "2023-08-28T04:57:46.541Z",
+        "exam_id": "cf3fd55a-3bc2-4301-a516-82b3c9b19baa",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "db4cb135-d5f5-4c9d-bd3d-3e44ca390950",
+        "title": "Advanced Diploma",
+        "description": "Receive an advanced diploma for specialized knowledge",
+        "date_created": "2023-08-28T04:29:56.038Z",
+        "last_updated": "2023-08-28T05:33:28.258Z",
+        "created_at": "2023-08-27T20:15:50.149Z",
+        "updated_at": "2023-08-28T00:28:47.873Z",
+        "exam_id": "f101a8fb-9e73-4fc0-bc23-9ead1f95ee8f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "72a508f9-37c0-4018-9e70-d6f0be58376a",
+        "title": "Specialization Certificate",
+        "description": "Obtain a certificate for completing a specialization",
+        "date_created": "2023-08-27T16:33:14.905Z",
+        "last_updated": "2023-08-27T22:43:13.677Z",
+        "created_at": "2023-08-28T10:41:47.303Z",
+        "updated_at": "2023-08-27T18:43:43.657Z",
+        "exam_id": "6d55fd9c-49bc-429a-8acb-7013170ef2f2",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "eb4f487b-00d4-4630-8b7a-588331e1eed9",
+        "title": "Master's Degree",
+        "description": "Achieve a master's degree in the subject",
+        "date_created": "2023-08-27T15:00:32.584Z",
+        "last_updated": "2023-08-28T10:48:08.431Z",
+        "created_at": "2023-08-27T23:16:17.952Z",
+        "updated_at": "2023-08-27T17:07:20.272Z",
+        "exam_id": "a43cba9b-aef2-4a3d-831a-4a54f7ea9120",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "b789a6be-045a-452d-b552-2e9f4928b273",
+        "email": "Mallory18@yahoo.com",
+        "firstName": "Rafaela",
+        "lastName": "Lubowitz",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96811189",
+        "tenantId": null
+      },
+      {
+        "reference": "c3dbdae6-9f1b-422c-aac6-1679e11b5194",
+        "email": "Claudine66@gmail.com",
+        "firstName": "Regan",
+        "lastName": "Grady-Roob",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/503.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e1aee54c-95a2-488f-a436-72a3c9e01922",
+        "email": "Brandt.Haley@hotmail.com",
+        "firstName": "Bertha",
+        "lastName": "Hudson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/49823748",
+        "tenantId": null
+      },
+      {
+        "reference": "2da78836-8225-4dc1-8036-abb18bc4ced5",
+        "email": "Tremaine_Funk55@hotmail.com",
+        "firstName": "Isai",
+        "lastName": "Medhurst",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/669.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "37aca935-ac06-48a4-bc61-d20381929d86",
+        "email": "Marquise91@yahoo.com",
+        "firstName": "Haley",
+        "lastName": "O'Connell",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/135.jpg",
+        "tenantId": null
+      }
+    ]
+  }
+]
